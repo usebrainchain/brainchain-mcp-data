@@ -65,10 +65,10 @@ A manifest does not list itself. Its own hash goes on BrainChain.
 Each day's manifest is hashed with SHA-256, and the hash is written to BrainChain once, as a record of kind `dataset`. BrainChain's operator (`0x70C665780E43BA1496a4E691e408F24844dB58eC`) sends it to the Inscriptions contract on BrainChain mainnet (`0x770D6756CA8a1627FFf01B846383b13d6fa0c514`):
 
 ```json
-{"brainchain":1,"kind":"dataset","date":"2026-11-20","manifest":"<SHA-256 of manifests/2026-11-20.json>","commit":"<the commit in this repository that published it>","rows":{"tokens.jsonl":1204,"events.jsonl":5310},"at":"2026-11-20T00:42:10Z"}
+{"brainchain":1,"kind":"dataset","date":"2026-11-20","repo":"usebrainchain/brainchain-mcp-data","manifest":"<SHA-256 of manifests/2026-11-20.json>","commit":"<commit>","rows":{"tokens.jsonl":1204,"events.jsonl":5310},"at":"2026-11-20T00:42:10Z"}
 ```
 
-`rows` repeats each file's count from the manifest. To check a day you need [Foundry's](https://getfoundry.sh) `cast`, `jq` and `git`.
+`commit` is the commit in this repository that published the day, and `rows` repeats each file's count from the manifest. A day is published in one commit and inscribed once, so its record never changes. To check a day you need [Foundry's](https://getfoundry.sh) `cast`, `jq` and `git`.
 
 1. Read the day's record from BrainChain:
 
