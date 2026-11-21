@@ -12,12 +12,14 @@ Every Robinhood Chain token that BitGo supports, every Robinhood Chain token on 
 
 | File | What it holds |
 | --- | --- |
-| `tokens.jsonl` | One row per token above, with its contract address on Robinhood Chain. |
-| `events.jsonl` | One row per dated public step of a token, such as BitGo adding support for it, its first mint, its first pool on a Uniswap venue or its entry in a wallet's token list. Rows are only ever added: a published row is never changed or removed. |
-| `outcomes.jsonl` | One row per outcome: a token tradable as a Robinhood pair, a Robinhood page for it, or a listing on Bitstamp, KuCoin or Gate. |
+| `tokens.jsonl` | One row per token with a public step other than a pool: on BitGo's lists, a wallet or aggregator list, an exchange, or a market maker's wallet or registry. Each has its contract address on Robinhood Chain, its symbol and name, and the sources that named it. |
+| `events.jsonl` | One row per dated public step of those tokens: a pull request or merge that adds it to BitGo's code, the first `@bitgo/statics` release with it, a pull request or merge that adds it to Trust Wallet's or MetaMask's list, LI.FI or CoinGecko listing it, its first pool on each Uniswap venue, a followed market maker wallet's first approval of it, or a market maker's multisig queuing one of its pools. Rows are only ever added: a published row is never changed or removed. |
+| `outcomes.jsonl` | One row per outcome: a page in Robinhood's crypto sitemap, a tradable pair in the list Robinhood serves to API clients, or a listing on KuCoin or Gate. |
+| `pools/NNN.jsonl` | Every token's first pool on each Uniswap venue, one file for each 5,000,000 blocks. A pool row carries its block, whose time is the block's. |
+| `symbols/XX.jsonl` | The symbol each token with a pool gives itself, in 256 files by the first byte of the SHA-256 of the symbol in capitals, for looking a symbol up. |
 | `events.csv`, `outcomes.csv` | The same rows as the two JSONL files, for spreadsheets. |
-| `base-rates.json` | Counts of what followed each kind of step. See [Counts, not forecasts](#counts-not-forecasts). |
-| `feed.json`, `feed.xml` | Each day's new steps as a [JSON Feed 1.1](https://www.jsonfeed.org/version/1.1/) and as RSS 2.0, so an agent can follow the record by polling one file. |
+| `base-rates.json` | Counts of what followed each kind of step, and every token's first pool counted by stretch of 10,000 blocks with the time each stretch ended. See [Counts, not forecasts](#counts-not-forecasts). |
+| `feed.json`, `feed.xml` | The newest steps and outcomes as a [JSON Feed 1.1](https://www.jsonfeed.org/version/1.1/) and as RSS 2.0, so an agent can follow the record by polling one file. |
 | `manifests/YYYY-MM-DD.json` | One per day: the SHA-256 and row count of every file published that day. |
 
 ## When a step was public, and when it was seen
@@ -25,10 +27,10 @@ Every Robinhood Chain token that BitGo supports, every Robinhood Chain token on 
 Rows carry two times, and the source of the first:
 
 - `at` is the earliest time the step can be shown to have been public. For a step on Robinhood Chain it is the time of the block that holds it. For BitGo, Trust Wallet and MetaMask it is when the change reached the master branch of their public code, which can be later than the commit's own date.
-- `atFrom` says where `at` comes from: `block`, `push` or `observed`.
+- `atFrom` says where `at` comes from: `block`, a block's time; `push`, when a master branch took the change; `source`, a time the source publishes itself, such as a pull request's opening or a venue's trading start; or `observed`, when it was first seen.
 - `observedAt` is when this record first saw the row.
 
-A source that publishes no date, such as CoinGecko or KuCoin, gets an `at` equal to `observedAt`, and `atFrom` is `observed`.
+A source that publishes no date, such as CoinGecko or Robinhood, gets an `at` equal to `observedAt`, and `atFrom` is `observed`. KuCoin and Gate are dated by the trading start each publishes, when trading had opened by the time the listing was seen. A step or listing that was already public when BrainChain's watcher started on November 19, 2026, with nothing to show since when, has `by` in place of `at`: it had happened by then, perhaps long before.
 
 For a backtest, cut on `at`: keep the rows whose `at` is at or before your cut-off, and your agent sees only what was public by then. The BrainChain MCP's tools cut the same way. Comparing `observedAt` with `at` shows how long a step took to reach this record.
 
@@ -36,7 +38,11 @@ For a backtest, cut on `at`: keep the rows whose `at` is at or before your cut-o
 
 The first run recorded the history before it in one pass, and its rows carry `backfill: true`. Their `at` comes from the source as on any other row; their `observedAt` is the time of that first run.
 
-An outcome that was already in place at the first run, from a source that gives no date, is dated to that run. Read its `at` as "listed by": the listing happened at that time or earlier.
+A pool row in `pools/` written by the first run has the same `backfill: true`, and its time is its block's.
+
+## How outcomes are tied to a token
+
+KuCoin and Gate name the contract they list on Robinhood Chain. Robinhood names an asset by its symbol only, so a Robinhood row is tied to a token by symbol and confirmed by Robinhood's own name for the asset, from its pair list or its page. A Robinhood row with nothing but the symbol to go on has `match: "symbol"` and `unconfirmed: true`: a token on Robinhood Chain can call itself by another asset's symbol, so such a row is kept and counted in no rate. Bitstamp is not read: its robots.txt closes its API to automated clients.
 
 ## Manifests
 
@@ -99,7 +105,7 @@ On Linux, use `sha256sum` in place of `shasum -a 256`.
 
 ## Counts, not forecasts
 
-`base-rates.json` has an entry for each kind of step: how many tokens took it (`n`), the share of them with each outcome within 7, 30 and 90 days, the median number of days from the step to the outcome, and the tokens behind each number, so every figure leads back to its rows. It counts what happened to the tokens in this record up to the day it was built. It is not a forecast and gives no score.
+`base-rates.json` has an entry for each kind of step: how many tokens took it (`n`), and for 7, 30 and 90 days after it how many were listed (`followed`), how many had been listed before the step (`before`) and how many are listed without a date to place inside or outside the window (`unknown`), the share followed of those that can be placed, the median number of days from the step to the listing, and the tokens behind each number, so every figure leads back to its rows. Each kind also says how many unconfirmed Robinhood rows were left out. It counts what happened to the tokens in this record up to the day it was built. It is not a forecast and gives no score.
 
 A step is a lead to look into. It does not say why it happened, and it does not mean a listing follows. Where `n` is small, a share can move a lot from one day to the next.
 
