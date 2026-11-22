@@ -1,49 +1,65 @@
-token,outcome,venue,at,by,atFrom,match,unconfirmed,symbol,name,tradingStart,ref,observedAt,backfill
-0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168,gate,Gate,2025-11-12T12:00:00.000Z,,source,contract,,USDG,Global Dollar,2025-11-12T12:00:00.000Z,https://api.gateio.ws/api/v4/spot/currencies,2026-11-19T09:20:53.050Z,true
-0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168,kucoin,KuCoin,2025-11-26T10:00:00.000Z,,source,contract,,USDG,Global Dollar,2025-11-26T10:00:00.000Z,https://api.kucoin.com/api/v3/currencies,2026-11-19T09:20:50.453Z,true
-0x020bfC650A365f8BB26819deAAbF3E21291018b4,kucoin,KuCoin,2026-07-15T10:00:00.000Z,,source,contract,,CASHCAT,Cash Cat,2026-07-15T10:00:00.000Z,https://api.kucoin.com/api/v3/currencies,2026-11-19T09:20:50.453Z,true
-0x5Cb6F181081301b44905F3ae15419112ecaBd8A6,kucoin,KuCoin,2026-08-06T12:00:00.000Z,,source,contract,,PIPEDOG,Pipedog,2026-08-06T12:00:00.000Z,https://api.kucoin.com/api/v3/currencies,2026-11-19T09:20:50.453Z,true
-0x5Cb6F181081301b44905F3ae15419112ecaBd8A6,gate,Gate,2026-08-14T10:00:00.000Z,,source,contract,,PIPEDOG,Pipedog,2026-08-14T10:00:00.000Z,https://api.gateio.ws/api/v4/spot/currencies,2026-11-19T09:20:53.050Z,true
-0x020bfC650A365f8BB26819deAAbF3E21291018b4,gate,Gate,2026-08-25T08:00:00.000Z,,source,contract,,CASHCAT,Cash Cat,2026-08-25T08:00:00.000Z,https://api.gateio.ws/api/v4/spot/currencies,2026-11-19T09:20:53.050Z,true
-0x39dBED3a2bd333467115dE45665cC57F813C4571,kucoin,KuCoin,2026-08-27T09:00:00.000Z,,source,contract,,PONS,Pons,2026-08-27T09:00:00.000Z,https://api.kucoin.com/api/v3/currencies,2026-11-19T09:20:50.453Z,true
-0x39dBED3a2bd333467115dE45665cC57F813C4571,gate,Gate,2026-08-27T09:00:00.000Z,,source,contract,,PONS,Pons,2026-08-27T09:00:00.000Z,https://api.gateio.ws/api/v4/spot/currencies,2026-11-19T09:20:53.050Z,true
-0x2E8c31162b855A2ffa90F6F8634643Ad6F111e18,gate,Gate,2026-09-02T14:00:00.000Z,,source,contract,,AINVDA,Artificial Inu,2026-09-02T14:00:00.000Z,https://api.gateio.ws/api/v4/spot/currencies,2026-11-19T09:20:53.050Z,true
-0xe934e36A439C94017B64a3FecE66AF12099aBF50,gate,Gate,2026-09-07T11:00:00.000Z,,source,contract,,STONKBROKER,StonkBroker,2026-09-07T11:00:00.000Z,https://api.gateio.ws/api/v4/spot/currencies,2026-11-19T09:20:53.050Z,true
-0x98096d17e191B3dA1d5f99a6D7b3584351b11E18,gate,Gate,2026-09-16T12:30:00.000Z,,source,contract,,BONER,Boner Coin,2026-09-16T12:30:00.000Z,https://api.gateio.ws/api/v4/spot/currencies,2026-11-19T09:20:53.050Z,true
-0x91A2DAe9699f0B82540B5886b0d8759C22820bA3,gate,Gate,2026-09-23T09:00:00.000Z,,source,contract,,MUSEBOOK,musebook,2026-09-23T09:00:00.000Z,https://api.gateio.ws/api/v4/spot/currencies,2026-11-19T09:20:53.050Z,true
-0x000050E18ffa3F8F7aD170Eb9CeF160eb3Ed1111,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,TORCH,,,https://robinhood.com/us/en/crypto/TORCH/,2026-11-19T09:20:49.454Z,true
-0x020bfC650A365f8BB26819deAAbF3E21291018b4,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,CASHCAT,Cash Cat,,https://robinhood.com/us/en/crypto/CASHCAT/,2026-11-19T09:20:49.454Z,true
-0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,WETH,Wrapped Ether,,https://robinhood.com/us/en/crypto/WETH/,2026-11-19T09:20:49.454Z,true
-0x16391C40e85FB2246A2C8c17bfA2594C5d3EF84b,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,GRASS,,,https://robinhood.com/us/en/crypto/GRASS/,2026-11-19T09:20:49.454Z,true
-0x1755C2910c126eE1b0CF1E08a307Dc9E787285a0,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,1INCH,,,https://robinhood.com/us/en/crypto/1INCH/,2026-11-19T09:20:49.454Z,true
-0x32c85eB5E0686d5A8FA1BD9EEB1a432C3FACbd50,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,TOSHI,,,https://robinhood.com/us/en/crypto/TOSHI/,2026-11-19T09:20:49.454Z,true
-0x39dBED3a2bd333467115dE45665cC57F813C4571,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,PONS,,,https://robinhood.com/us/en/crypto/PONS/,2026-11-19T09:20:49.454Z,true
-0x492641F648a4986844848E0beFE66D14817bCE34,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,LINK,Chainlink,,https://robinhood.com/us/en/crypto/LINK/,2026-11-19T09:20:49.454Z,true
-0x56910D4409F3a0C78C64DD8D0545FF0705389870,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,INDEX,The Index,,https://robinhood.com/us/en/crypto/INDEX/,2026-11-19T09:20:49.454Z,true
-0x58538e6A46E07434d7E7375Bc268D3cb839C0133,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,ENA,Ethena,,https://robinhood.com/us/en/crypto/ENA/,2026-11-19T09:20:49.454Z,true
-0x5BaaeC1B70864f01dbdb747358FF59F2E2cCF7D5,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,GIGA,,,https://robinhood.com/us/en/crypto/GIGA/,2026-11-19T09:20:49.454Z,true
-0x5E49E1f85813F2B65858860A3FA231b4186f2e0E,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,PENDLE,,,https://robinhood.com/us/en/crypto/PENDLE/,2026-11-19T09:20:49.454Z,true
-0x6245e67affA44a23077f0Ea7f981a8DC743a0c47,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,FRONG,,,https://robinhood.com/us/en/crypto/FRONG/,2026-11-19T09:20:49.454Z,true
-0x6e9aCBFbdD8b57649ffeAcEa4D26A81aE1395367,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,GOAT,,,https://robinhood.com/us/en/crypto/GOAT/,2026-11-19T09:20:49.454Z,true
-0x7Ad7b2256fFcf7c6F7C7D95cf238D2ecc2C485E0,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,ARC,,,https://robinhood.com/us/en/crypto/ARC/,2026-11-19T09:20:49.454Z,true
-0x7FE995a80075dF3Dc8Ae11A9b82c7FE4202CD87f,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,HMM,,,https://robinhood.com/us/en/crypto/HMM/,2026-11-19T09:20:49.454Z,true
-0x808a9D5071E7d5f58490cB7385027536BbE43eF0,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,TURBO,,,https://robinhood.com/us/en/crypto/TURBO/,2026-11-19T09:20:49.454Z,true
-0x8D1c258C76c87559078bb3b2B77a1f9C41f58eEB,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,SPX,,,https://robinhood.com/us/en/crypto/SPX/,2026-11-19T09:20:49.454Z,true
-0x8f86a15EC17cb3369d8b3E666dAdBC11daA82b79,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,APE,Apecoin,,https://robinhood.com/us/en/crypto/APE/,2026-11-19T09:20:49.454Z,true
-0x9161cdB8bD4C21375e85c3FE7a5cE74a6ba5Da06,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,ORE,,,https://robinhood.com/us/en/crypto/ORE/,2026-11-19T09:20:49.454Z,true
-0xA74a94c15B95f8d5F3abDd2Db00F6c7384037B55,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,ARIA,,,https://robinhood.com/us/en/crypto/ARIA/,2026-11-19T09:20:49.454Z,true
-0xAa07A0e9209e16aC99708C3EC70159c6eF3128A3,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,ORBIO,,,https://robinhood.com/us/en/crypto/ORBIO/,2026-11-19T09:20:49.454Z,true
-0xb47efCc461d3CD6b270dAf15388A77a3fAe64AD1,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,TRADOOR,,,https://robinhood.com/us/en/crypto/TRADOOR/,2026-11-19T09:20:49.454Z,true
-0xc6911796042b15d7Fa4F6CDe69e245DdCd3d9c31,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,VIRTUAL,Virtuals Protocol,,https://robinhood.com/us/en/crypto/VIRTUAL/,2026-11-19T09:20:49.454Z,true
-0xD7321801CAae694090694Ff55A9323139F043B88,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,JUGGERNAUT,,,https://robinhood.com/us/en/crypto/JUGGERNAUT/,2026-11-19T09:20:49.454Z,true
-0xe934e36A439C94017B64a3FecE66AF12099aBF50,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,STONKBROKER,,,https://robinhood.com/us/en/crypto/STONKBROKER/,2026-11-19T09:20:49.454Z,true
-0xeDBf91223639800BCd5756815CAf908Df3b890bE,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,PRIORS,,,https://robinhood.com/us/en/crypto/PRIORS/,2026-11-19T09:20:49.454Z,true
-0xeeca2E7Dc194a320d349122d88259bB9595a4cB0,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,LIT,Lighter,,https://robinhood.com/us/en/crypto/LIT/,2026-11-19T09:20:49.454Z,true
-0xF177d86a28b520e3E396E4F3B96cd8e72D7dabd8,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,UNI,Uniswap,,https://robinhood.com/us/en/crypto/UNI/,2026-11-19T09:20:49.454Z,true
-0xf55F03Ea76c4e21F263631b1860b55E255ACb339,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,MOG,,,https://robinhood.com/us/en/crypto/MOG/,2026-11-19T09:20:49.454Z,true
-0x020bfC650A365f8BB26819deAAbF3E21291018b4,robinhood_tradable,Robinhood,,2026-11-19T09:20:49.849Z,,name,,CASHCAT,Cash Cat,,https://nummus.robinhood.com/currency_pairs/#CASHCAT,2026-11-19T09:20:49.849Z,true
-0x492641F648a4986844848E0beFE66D14817bCE34,robinhood_tradable,Robinhood,,2026-11-19T09:20:49.849Z,,name,,LINK,Chainlink,,https://nummus.robinhood.com/currency_pairs/#LINK,2026-11-19T09:20:49.849Z,true
-0x58538e6A46E07434d7E7375Bc268D3cb839C0133,robinhood_tradable,Robinhood,,2026-11-19T09:20:49.849Z,,name,,ENA,Ethena,,https://nummus.robinhood.com/currency_pairs/#ENA,2026-11-19T09:20:49.849Z,true
-0xc6911796042b15d7Fa4F6CDe69e245DdCd3d9c31,robinhood_tradable,Robinhood,,2026-11-19T09:20:49.849Z,,name,,VIRTUAL,Virtuals Protocol,,https://nummus.robinhood.com/currency_pairs/#VIRTUAL,2026-11-19T09:20:49.849Z,true
-0xeeca2E7Dc194a320d349122d88259bB9595a4cB0,robinhood_tradable,Robinhood,,2026-11-19T09:20:49.849Z,,name,,LIT,Lighter,,https://nummus.robinhood.com/currency_pairs/#LIT,2026-11-19T09:20:49.849Z,true
-0xF177d86a28b520e3E396E4F3B96cd8e72D7dabd8,robinhood_tradable,Robinhood,,2026-11-19T09:20:49.849Z,,name,,UNI,Uniswap,,https://nummus.robinhood.com/currency_pairs/#UNI,2026-11-19T09:20:49.849Z,true
+token,outcome,venue,at,by,atFrom,match,unconfirmed,symbol,name,tradingStart,market,ref,observedAt,backfill
+0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168,gate,Gate,2025-11-12T12:00:00.000Z,,source,contract,,USDG,Global Dollar,2025-11-12T12:00:00.000Z,,https://api.gateio.ws/api/v4/spot/currencies,2026-11-19T09:20:53.050Z,true
+0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168,kucoin,KuCoin,2025-11-26T10:00:00.000Z,,source,contract,,USDG,Global Dollar,2025-11-26T10:00:00.000Z,,https://api.kucoin.com/api/v3/currencies,2026-11-19T09:20:50.453Z,true
+0x020bfC650A365f8BB26819deAAbF3E21291018b4,kucoin,KuCoin,2026-07-15T10:00:00.000Z,,source,contract,,CASHCAT,Cash Cat,2026-07-15T10:00:00.000Z,,https://api.kucoin.com/api/v3/currencies,2026-11-19T09:20:50.453Z,true
+0x5Cb6F181081301b44905F3ae15419112ecaBd8A6,kucoin,KuCoin,2026-08-06T12:00:00.000Z,,source,contract,,PIPEDOG,Pipedog,2026-08-06T12:00:00.000Z,,https://api.kucoin.com/api/v3/currencies,2026-11-19T09:20:50.453Z,true
+0x5Cb6F181081301b44905F3ae15419112ecaBd8A6,gate,Gate,2026-08-14T10:00:00.000Z,,source,contract,,PIPEDOG,Pipedog,2026-08-14T10:00:00.000Z,,https://api.gateio.ws/api/v4/spot/currencies,2026-11-19T09:20:53.050Z,true
+0x020bfC650A365f8BB26819deAAbF3E21291018b4,gate,Gate,2026-08-25T08:00:00.000Z,,source,contract,,CASHCAT,Cash Cat,2026-08-25T08:00:00.000Z,,https://api.gateio.ws/api/v4/spot/currencies,2026-11-19T09:20:53.050Z,true
+0x39dBED3a2bd333467115dE45665cC57F813C4571,kucoin,KuCoin,2026-08-27T09:00:00.000Z,,source,contract,,PONS,Pons,2026-08-27T09:00:00.000Z,,https://api.kucoin.com/api/v3/currencies,2026-11-19T09:20:50.453Z,true
+0x39dBED3a2bd333467115dE45665cC57F813C4571,gate,Gate,2026-08-27T09:00:00.000Z,,source,contract,,PONS,Pons,2026-08-27T09:00:00.000Z,,https://api.gateio.ws/api/v4/spot/currencies,2026-11-19T09:20:53.050Z,true
+0x2E8c31162b855A2ffa90F6F8634643Ad6F111e18,gate,Gate,2026-09-02T14:00:00.000Z,,source,contract,,AINVDA,Artificial Inu,2026-09-02T14:00:00.000Z,,https://api.gateio.ws/api/v4/spot/currencies,2026-11-19T09:20:53.050Z,true
+0xe934e36A439C94017B64a3FecE66AF12099aBF50,gate,Gate,2026-09-07T11:00:00.000Z,,source,contract,,STONKBROKER,StonkBroker,2026-09-07T11:00:00.000Z,,https://api.gateio.ws/api/v4/spot/currencies,2026-11-19T09:20:53.050Z,true
+0x98096d17e191B3dA1d5f99a6D7b3584351b11E18,gate,Gate,2026-09-16T12:30:00.000Z,,source,contract,,BONER,Boner Coin,2026-09-16T12:30:00.000Z,,https://api.gateio.ws/api/v4/spot/currencies,2026-11-19T09:20:53.050Z,true
+0x91A2DAe9699f0B82540B5886b0d8759C22820bA3,gate,Gate,2026-09-23T09:00:00.000Z,,source,contract,,MUSEBOOK,musebook,2026-09-23T09:00:00.000Z,,https://api.gateio.ws/api/v4/spot/currencies,2026-11-19T09:20:53.050Z,true
+0x000050E18ffa3F8F7aD170Eb9CeF160eb3Ed1111,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,TORCH,,,,https://robinhood.com/us/en/crypto/TORCH/,2026-11-19T09:20:49.454Z,true
+0x020bfC650A365f8BB26819deAAbF3E21291018b4,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,CASHCAT,Cash Cat,,,https://robinhood.com/us/en/crypto/CASHCAT/,2026-11-19T09:20:49.454Z,true
+0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,WETH,Wrapped Ether,,,https://robinhood.com/us/en/crypto/WETH/,2026-11-19T09:20:49.454Z,true
+0x16391C40e85FB2246A2C8c17bfA2594C5d3EF84b,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,GRASS,,,,https://robinhood.com/us/en/crypto/GRASS/,2026-11-19T09:20:49.454Z,true
+0x1755C2910c126eE1b0CF1E08a307Dc9E787285a0,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,1INCH,,,,https://robinhood.com/us/en/crypto/1INCH/,2026-11-19T09:20:49.454Z,true
+0x32c85eB5E0686d5A8FA1BD9EEB1a432C3FACbd50,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,TOSHI,,,,https://robinhood.com/us/en/crypto/TOSHI/,2026-11-19T09:20:49.454Z,true
+0x39dBED3a2bd333467115dE45665cC57F813C4571,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,PONS,,,,https://robinhood.com/us/en/crypto/PONS/,2026-11-19T09:20:49.454Z,true
+0x492641F648a4986844848E0beFE66D14817bCE34,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,LINK,Chainlink,,,https://robinhood.com/us/en/crypto/LINK/,2026-11-19T09:20:49.454Z,true
+0x56910D4409F3a0C78C64DD8D0545FF0705389870,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,INDEX,The Index,,,https://robinhood.com/us/en/crypto/INDEX/,2026-11-19T09:20:49.454Z,true
+0x58538e6A46E07434d7E7375Bc268D3cb839C0133,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,ENA,Ethena,,,https://robinhood.com/us/en/crypto/ENA/,2026-11-19T09:20:49.454Z,true
+0x5BaaeC1B70864f01dbdb747358FF59F2E2cCF7D5,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,GIGA,,,,https://robinhood.com/us/en/crypto/GIGA/,2026-11-19T09:20:49.454Z,true
+0x5E49E1f85813F2B65858860A3FA231b4186f2e0E,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,PENDLE,,,,https://robinhood.com/us/en/crypto/PENDLE/,2026-11-19T09:20:49.454Z,true
+0x6245e67affA44a23077f0Ea7f981a8DC743a0c47,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,FRONG,,,,https://robinhood.com/us/en/crypto/FRONG/,2026-11-19T09:20:49.454Z,true
+0x6e9aCBFbdD8b57649ffeAcEa4D26A81aE1395367,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,GOAT,,,,https://robinhood.com/us/en/crypto/GOAT/,2026-11-19T09:20:49.454Z,true
+0x7Ad7b2256fFcf7c6F7C7D95cf238D2ecc2C485E0,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,ARC,,,,https://robinhood.com/us/en/crypto/ARC/,2026-11-19T09:20:49.454Z,true
+0x7FE995a80075dF3Dc8Ae11A9b82c7FE4202CD87f,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,HMM,,,,https://robinhood.com/us/en/crypto/HMM/,2026-11-19T09:20:49.454Z,true
+0x808a9D5071E7d5f58490cB7385027536BbE43eF0,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,TURBO,,,,https://robinhood.com/us/en/crypto/TURBO/,2026-11-19T09:20:49.454Z,true
+0x8D1c258C76c87559078bb3b2B77a1f9C41f58eEB,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,SPX,,,,https://robinhood.com/us/en/crypto/SPX/,2026-11-19T09:20:49.454Z,true
+0x8f86a15EC17cb3369d8b3E666dAdBC11daA82b79,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,APE,Apecoin,,,https://robinhood.com/us/en/crypto/APE/,2026-11-19T09:20:49.454Z,true
+0x9161cdB8bD4C21375e85c3FE7a5cE74a6ba5Da06,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,ORE,,,,https://robinhood.com/us/en/crypto/ORE/,2026-11-19T09:20:49.454Z,true
+0xA74a94c15B95f8d5F3abDd2Db00F6c7384037B55,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,ARIA,,,,https://robinhood.com/us/en/crypto/ARIA/,2026-11-19T09:20:49.454Z,true
+0xAa07A0e9209e16aC99708C3EC70159c6eF3128A3,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,ORBIO,,,,https://robinhood.com/us/en/crypto/ORBIO/,2026-11-19T09:20:49.454Z,true
+0xb47efCc461d3CD6b270dAf15388A77a3fAe64AD1,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,TRADOOR,,,,https://robinhood.com/us/en/crypto/TRADOOR/,2026-11-19T09:20:49.454Z,true
+0xc6911796042b15d7Fa4F6CDe69e245DdCd3d9c31,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,VIRTUAL,Virtuals Protocol,,,https://robinhood.com/us/en/crypto/VIRTUAL/,2026-11-19T09:20:49.454Z,true
+0xD7321801CAae694090694Ff55A9323139F043B88,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,JUGGERNAUT,,,,https://robinhood.com/us/en/crypto/JUGGERNAUT/,2026-11-19T09:20:49.454Z,true
+0xe934e36A439C94017B64a3FecE66AF12099aBF50,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,STONKBROKER,,,,https://robinhood.com/us/en/crypto/STONKBROKER/,2026-11-19T09:20:49.454Z,true
+0xeDBf91223639800BCd5756815CAf908Df3b890bE,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,PRIORS,,,,https://robinhood.com/us/en/crypto/PRIORS/,2026-11-19T09:20:49.454Z,true
+0xeeca2E7Dc194a320d349122d88259bB9595a4cB0,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,LIT,Lighter,,,https://robinhood.com/us/en/crypto/LIT/,2026-11-19T09:20:49.454Z,true
+0xF177d86a28b520e3E396E4F3B96cd8e72D7dabd8,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,UNI,Uniswap,,,https://robinhood.com/us/en/crypto/UNI/,2026-11-19T09:20:49.454Z,true
+0xf55F03Ea76c4e21F263631b1860b55E255ACb339,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,symbol,true,MOG,,,,https://robinhood.com/us/en/crypto/MOG/,2026-11-19T09:20:49.454Z,true
+0x020bfC650A365f8BB26819deAAbF3E21291018b4,robinhood_tradable,Robinhood,,2026-11-19T09:20:49.849Z,,name,,CASHCAT,Cash Cat,,,https://nummus.robinhood.com/currency_pairs/#CASHCAT,2026-11-19T09:20:49.849Z,true
+0x492641F648a4986844848E0beFE66D14817bCE34,robinhood_tradable,Robinhood,,2026-11-19T09:20:49.849Z,,name,,LINK,Chainlink,,,https://nummus.robinhood.com/currency_pairs/#LINK,2026-11-19T09:20:49.849Z,true
+0x58538e6A46E07434d7E7375Bc268D3cb839C0133,robinhood_tradable,Robinhood,,2026-11-19T09:20:49.849Z,,name,,ENA,Ethena,,,https://nummus.robinhood.com/currency_pairs/#ENA,2026-11-19T09:20:49.849Z,true
+0xc6911796042b15d7Fa4F6CDe69e245DdCd3d9c31,robinhood_tradable,Robinhood,,2026-11-19T09:20:49.849Z,,name,,VIRTUAL,Virtuals Protocol,,,https://nummus.robinhood.com/currency_pairs/#VIRTUAL,2026-11-19T09:20:49.849Z,true
+0xeeca2E7Dc194a320d349122d88259bB9595a4cB0,robinhood_tradable,Robinhood,,2026-11-19T09:20:49.849Z,,name,,LIT,Lighter,,,https://nummus.robinhood.com/currency_pairs/#LIT,2026-11-19T09:20:49.849Z,true
+0xF177d86a28b520e3E396E4F3B96cd8e72D7dabd8,robinhood_tradable,Robinhood,,2026-11-19T09:20:49.849Z,,name,,UNI,Uniswap,,,https://nummus.robinhood.com/currency_pairs/#UNI,2026-11-19T09:20:49.849Z,true
+0xcE24439F2D9C6a2289F741120FE202248B666666,bitget,Bitget,2026-05-25T08:00:00.000Z,,source,contract,,U,,2026-05-25T08:00:00.000Z,UUSDC,https://api.bitget.com/api/v2/spot/public/symbols?symbol=UUSDC,2026-11-21T17:58:12.713Z,true
+0x39dBED3a2bd333467115dE45665cC57F813C4571,bitget,Bitget,2026-09-07T14:00:00.000Z,,source,contract,,PONS,,2026-09-07T14:00:00.000Z,PONSUSDT,https://api.bitget.com/api/v2/spot/public/symbols?symbol=PONSUSDT,2026-11-21T17:58:12.713Z,true
+0x000050E18ffa3F8F7aD170Eb9CeF160eb3Ed1111,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,TORCH,Torch,,,https://robinhood.com/us/en/crypto/TORCH/,2026-11-19T09:20:49.454Z,true
+0x1755C2910c126eE1b0CF1E08a307Dc9E787285a0,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,1INCH,1inch,,,https://robinhood.com/us/en/crypto/1INCH/,2026-11-19T09:20:49.454Z,true
+0x2E8c31162b855A2ffa90F6F8634643Ad6F111e18,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,AI,Artificial Inu,,,https://robinhood.com/us/en/crypto/AI/,2026-11-19T09:20:49.454Z,true
+0x32c85eB5E0686d5A8FA1BD9EEB1a432C3FACbd50,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,TOSHI,Toshi,,,https://robinhood.com/us/en/crypto/TOSHI/,2026-11-19T09:20:49.454Z,true
+0x39dBED3a2bd333467115dE45665cC57F813C4571,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,PONS,Pons,,,https://robinhood.com/us/en/crypto/PONS/,2026-11-19T09:20:49.454Z,true
+0x5E49E1f85813F2B65858860A3FA231b4186f2e0E,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,PENDLE,Pendle,,,https://robinhood.com/us/en/crypto/PENDLE/,2026-11-19T09:20:49.454Z,true
+0x6245e67affA44a23077f0Ea7f981a8DC743a0c47,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,FRONG,frong,,,https://robinhood.com/us/en/crypto/FRONG/,2026-11-19T09:20:49.454Z,true
+0x75C8258eAa6d0f94b82951194191cA3efB0bCBe2,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,MEOW,MEOW,,,https://robinhood.com/us/en/crypto/MEOW/,2026-11-19T09:20:49.454Z,true
+0x7FE995a80075dF3Dc8Ae11A9b82c7FE4202CD87f,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,HMM,Thinking Cat,,,https://robinhood.com/us/en/crypto/HMM/,2026-11-19T09:20:49.454Z,true
+0x8D1c258C76c87559078bb3b2B77a1f9C41f58eEB,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,SPX,SPX6900,,,https://robinhood.com/us/en/crypto/SPX/,2026-11-19T09:20:49.454Z,true
+0xAa07A0e9209e16aC99708C3EC70159c6eF3128A3,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,ORBIO,Orbio.so,,,https://robinhood.com/us/en/crypto/ORBIO/,2026-11-19T09:20:49.454Z,true
+0xD7321801CAae694090694Ff55A9323139F043B88,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,JUGGERNAUT,The Juggernaut,,,https://robinhood.com/us/en/crypto/JUGGERNAUT/,2026-11-19T09:20:49.454Z,true
+0xe934e36A439C94017B64a3FecE66AF12099aBF50,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,STONKBROKER,StonkBroker,,,https://robinhood.com/us/en/crypto/STONKBROKER/,2026-11-19T09:20:49.454Z,true
+0xeDBf91223639800BCd5756815CAf908Df3b890bE,robinhood_page,Robinhood,,2026-11-19T09:20:49.454Z,,name,,PRIORS,Priors Agents,,,https://robinhood.com/us/en/crypto/PRIORS/,2026-11-19T09:20:49.454Z,true

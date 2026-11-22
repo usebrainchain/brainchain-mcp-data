@@ -1664,3 +1664,11 @@
 {"token":"0xeA3b282273E9ab901790694aDD171C2606D71e18","symbol":"OOF","name":"OOF","sources":["LI.FI"],"observedAt":"2026-11-20T19:53:20.955Z"}
 {"token":"0x7B7D785a2BA95d39F97FCe44f5B2169895855b7E","symbol":"ROB","name":"Robacha","sources":["LI.FI"],"observedAt":"2026-11-20T22:00:11.816Z"}
 {"token":"0x0bF77184E3B23b3BdB3Bb8e30E121CF88EbF47aB","symbol":"USDG","name":"United States Globall Dollars Gold","sources":["Robinhood Chain"],"observedAt":"2026-11-20T23:11:20.936Z"}
+{"token":"0x189505a04F906dEBDC79Ac3C2374C1922eB90012","symbol":"POOLZ","name":"POOLZ","sources":["CoinGecko"],"observedAt":"2026-11-21T14:56:11.762Z"}
+{"token":"0x7616C89d04033f608B71df6B33b54C8F5De5Ba7C","symbol":"CAMELZ","name":"Camelz","sources":["MetaMask"],"observedAt":"2026-11-21T17:12:29.063Z"}
+{"token":"0x724a163f0081fA1771590Dda9b55eDDe2c5B823a","symbol":"BLAST","name":"BLAST","sources":["LI.FI"],"observedAt":"2026-11-21T18:38:10.809Z"}
+{"token":"0xD0D179A76dB0988296cb7ca9658f0D4Bf40578bC","symbol":"JUICEMAN","name":"Juiceman by Virtuals","sources":["LI.FI"],"observedAt":"2026-11-21T19:49:11.966Z"}
+{"token":"0x92663C3B9f7a27d736A67Fd10DF5416C5Dd5625a","symbol":"401K","name":"Early Retirement","sources":["LI.FI"],"observedAt":"2026-11-21T20:19:12.418Z"}
+{"token":"0x0F2c5B7A7625C7b097759DD7165177d63fBB8b03","symbol":"GROKIUS","name":"Grokius Maximus","sources":["LI.FI"],"observedAt":"2026-11-21T21:32:37.047Z"}
+{"token":"0x8ad5A580c4215086Dec828d8626b95A06D7D00cc","symbol":"WINK","name":"WinkCat","sources":["LI.FI"],"observedAt":"2026-11-21T21:57:37.283Z"}
+{"token":"0xAc14F16c913C6F261238793dF2Ab2Eb8579f7B0B","symbol":"LION","name":"The Lion","sources":["LI.FI"],"observedAt":"2026-11-21T23:47:38.641Z"}

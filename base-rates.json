@@ -1,11 +1,11 @@
 {
- "readAt": "2026-11-21T03:30:38.856Z",
- "headBlock": 119572610,
- "cut": "2026-11-21T03:30:38.000Z",
+ "readAt": "2026-11-22T00:30:16.011Z",
+ "headBlock": 120258205,
+ "cut": "2026-11-22T00:30:15.000Z",
  "through": {
-  "head": 119572610,
-  "pools": 119572809,
-  "approvals": 119572610,
+  "head": 120258205,
+  "pools": 120258423,
+  "approvals": 120258205,
   "wallets": [
    "0x51C72848c68a965f66FA7a88855F9f7784502a7F",
    "0xf8191D98ae98d2f7aBDFB63A9b0b812b93C873AA",
@@ -14,80 +14,97 @@
    "0x33566c9D8BE6Cf0B23795E0d380E112Be9d75836"
   ]
  },
- "unconfirmed": 21,
+ "unconfirmed": 9,
  "kinds": [
   {
    "step": "pool",
-   "n": 1153923,
+   "n": 1155223,
    "undated": 0,
    "unconfirmed": {
-    "rows": 20,
+    "rows": 9,
     "tokens": [
-     "0x000050e18ffa3f8f7ad170eb9cef160eb3ed1111",
      "0x16391c40e85fb2246a2c8c17bfa2594c5d3ef84b",
-     "0x1755c2910c126ee1b0cf1e08a307dc9e787285a0",
-     "0x32c85eb5e0686d5a8fa1bd9eeb1a432c3facbd50",
-     "0x39dbed3a2bd333467115de45665cc57f813c4571",
      "0x5baaec1b70864f01dbdb747358ff59f2e2ccf7d5",
-     "0x5e49e1f85813f2b65858860a3fa231b4186f2e0e",
-     "0x6245e67affa44a23077f0ea7f981a8dc743a0c47",
      "0x6e9acbfbdd8b57649ffeacea4d26a81ae1395367",
      "0x7ad7b2256ffcf7c6f7c7d95cf238d2ecc2c485e0",
-     "0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f",
      "0x808a9d5071e7d5f58490cb7385027536bbe43ef0",
      "0x9161cdb8bd4c21375e85c3fe7a5ce74a6ba5da06",
      "0xa74a94c15b95f8d5f3abdd2db00f6c7384037b55",
-     "0xaa07a0e9209e16ac99708c3ec70159c6ef3128a3",
      "0xb47efcc461d3cd6b270daf15388a77a3fae64ad1",
-     "0xd7321801caae694090694ff55a9323139f043b88",
-     "0xe934e36a439c94017b64a3fece66af12099abf50",
-     "0xedbf91223639800bcd5756815caf908df3b890be",
      "0xf55f03ea76c4e21f263631b1860b55e255acb339"
     ]
    },
    "windows": [
     {
      "days": 7,
-     "steps": 1139260,
+     "steps": 1140995,
      "outcomes": {
       "any": {
-       "eligible": 1139260,
-       "before": 0,
-       "unknown": 8,
+       "eligible": 1140994,
+       "before": 1,
+       "unknown": 21,
        "followed": 0,
        "share": 0,
        "medianLeadDays": null,
        "tokens": {
         "followed": [],
         "unknown": [
+         "0x000050e18ffa3f8f7ad170eb9cef160eb3ed1111",
          "0x020bfc650a365f8bb26819deaabf3e21291018b4",
+         "0x1755c2910c126ee1b0cf1e08a307dc9e787285a0",
+         "0x2e8c31162b855a2ffa90f6f8634643ad6f111e18",
+         "0x32c85eb5e0686d5a8fa1bd9eeb1a432c3facbd50",
+         "0x39dbed3a2bd333467115de45665cc57f813c4571",
          "0x492641f648a4986844848e0befe66d14817bce34",
          "0x56910d4409f3a0c78c64dd8d0545ff0705389870",
          "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+         "0x5e49e1f85813f2b65858860a3fa231b4186f2e0e",
+         "0x6245e67affa44a23077f0ea7f981a8dc743a0c47",
+         "0x75c8258eaa6d0f94b82951194191ca3efb0bcbe2",
+         "0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f",
          "0x8f86a15ec17cb3369d8b3e666dadbc11daa82b79",
+         "0xaa07a0e9209e16ac99708c3ec70159c6ef3128a3",
          "0xc6911796042b15d7fa4f6cde69e245ddcd3d9c31",
+         "0xd7321801caae694090694ff55a9323139f043b88",
+         "0xe934e36a439c94017b64a3fece66af12099abf50",
+         "0xedbf91223639800bcd5756815caf908df3b890be",
          "0xeeca2e7dc194a320d349122d88259bb9595a4cb0",
          "0xf177d86a28b520e3e396e4f3b96cd8e72d7dabd8"
         ],
-        "before": []
+        "before": [
+         "0xce24439f2d9c6a2289f741120fe202248b666666"
+        ]
        }
       },
       "robinhood_page": {
-       "eligible": 1139260,
+       "eligible": 1140995,
        "before": 0,
-       "unknown": 8,
+       "unknown": 21,
        "followed": 0,
        "share": 0,
        "medianLeadDays": null,
        "tokens": {
         "followed": [],
         "unknown": [
+         "0x000050e18ffa3f8f7ad170eb9cef160eb3ed1111",
          "0x020bfc650a365f8bb26819deaabf3e21291018b4",
+         "0x1755c2910c126ee1b0cf1e08a307dc9e787285a0",
+         "0x2e8c31162b855a2ffa90f6f8634643ad6f111e18",
+         "0x32c85eb5e0686d5a8fa1bd9eeb1a432c3facbd50",
+         "0x39dbed3a2bd333467115de45665cc57f813c4571",
          "0x492641f648a4986844848e0befe66d14817bce34",
          "0x56910d4409f3a0c78c64dd8d0545ff0705389870",
          "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+         "0x5e49e1f85813f2b65858860a3fa231b4186f2e0e",
+         "0x6245e67affa44a23077f0ea7f981a8dc743a0c47",
+         "0x75c8258eaa6d0f94b82951194191ca3efb0bcbe2",
+         "0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f",
          "0x8f86a15ec17cb3369d8b3e666dadbc11daa82b79",
+         "0xaa07a0e9209e16ac99708c3ec70159c6ef3128a3",
          "0xc6911796042b15d7fa4f6cde69e245ddcd3d9c31",
+         "0xd7321801caae694090694ff55a9323139f043b88",
+         "0xe934e36a439c94017b64a3fece66af12099abf50",
+         "0xedbf91223639800bcd5756815caf908df3b890be",
          "0xeeca2e7dc194a320d349122d88259bb9595a4cb0",
          "0xf177d86a28b520e3e396e4f3b96cd8e72d7dabd8"
         ],
@@ -95,7 +112,7 @@
        }
       },
       "robinhood_tradable": {
-       "eligible": 1139260,
+       "eligible": 1140995,
        "before": 0,
        "unknown": 6,
        "followed": 0,
@@ -115,7 +132,7 @@
        }
       },
       "kucoin": {
-       "eligible": 1139260,
+       "eligible": 1140995,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -128,7 +145,7 @@
        }
       },
       "gate": {
-       "eligible": 1139260,
+       "eligible": 1140995,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -139,19 +156,86 @@
         "unknown": [],
         "before": []
        }
+      },
+      "kraken": {
+       "eligible": 1140995,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 1140995,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 1140995,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 1140995,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 1140994,
+       "before": 1,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": [
+         "0xce24439f2d9c6a2289f741120fe202248b666666"
+        ]
+       }
       }
      }
     },
     {
      "days": 30,
-     "steps": 1065902,
+     "steps": 1069032,
      "outcomes": {
       "any": {
-       "eligible": 1065902,
-       "before": 0,
-       "unknown": 7,
+       "eligible": 1069031,
+       "before": 1,
+       "unknown": 20,
        "followed": 4,
-       "share": 0.000003753,
+       "share": 0.000003742,
        "medianLeadDays": 17.6,
        "tokens": {
         "followed": [
@@ -161,33 +245,61 @@
          "0x98096d17e191b3da1d5f99a6d7b3584351b11e18"
         ],
         "unknown": [
+         "0x000050e18ffa3f8f7ad170eb9cef160eb3ed1111",
+         "0x1755c2910c126ee1b0cf1e08a307dc9e787285a0",
+         "0x2e8c31162b855a2ffa90f6f8634643ad6f111e18",
+         "0x32c85eb5e0686d5a8fa1bd9eeb1a432c3facbd50",
+         "0x39dbed3a2bd333467115de45665cc57f813c4571",
          "0x492641f648a4986844848e0befe66d14817bce34",
          "0x56910d4409f3a0c78c64dd8d0545ff0705389870",
          "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+         "0x5e49e1f85813f2b65858860a3fa231b4186f2e0e",
+         "0x6245e67affa44a23077f0ea7f981a8dc743a0c47",
+         "0x75c8258eaa6d0f94b82951194191ca3efb0bcbe2",
+         "0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f",
          "0x8f86a15ec17cb3369d8b3e666dadbc11daa82b79",
+         "0xaa07a0e9209e16ac99708c3ec70159c6ef3128a3",
          "0xc6911796042b15d7fa4f6cde69e245ddcd3d9c31",
+         "0xd7321801caae694090694ff55a9323139f043b88",
+         "0xe934e36a439c94017b64a3fece66af12099abf50",
+         "0xedbf91223639800bcd5756815caf908df3b890be",
          "0xeeca2e7dc194a320d349122d88259bb9595a4cb0",
          "0xf177d86a28b520e3e396e4f3b96cd8e72d7dabd8"
         ],
-        "before": []
+        "before": [
+         "0xce24439f2d9c6a2289f741120fe202248b666666"
+        ]
        }
       },
       "robinhood_page": {
-       "eligible": 1065902,
+       "eligible": 1069032,
        "before": 0,
-       "unknown": 8,
+       "unknown": 21,
        "followed": 0,
        "share": 0,
        "medianLeadDays": null,
        "tokens": {
         "followed": [],
         "unknown": [
+         "0x000050e18ffa3f8f7ad170eb9cef160eb3ed1111",
          "0x020bfc650a365f8bb26819deaabf3e21291018b4",
+         "0x1755c2910c126ee1b0cf1e08a307dc9e787285a0",
+         "0x2e8c31162b855a2ffa90f6f8634643ad6f111e18",
+         "0x32c85eb5e0686d5a8fa1bd9eeb1a432c3facbd50",
+         "0x39dbed3a2bd333467115de45665cc57f813c4571",
          "0x492641f648a4986844848e0befe66d14817bce34",
          "0x56910d4409f3a0c78c64dd8d0545ff0705389870",
          "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+         "0x5e49e1f85813f2b65858860a3fa231b4186f2e0e",
+         "0x6245e67affa44a23077f0ea7f981a8dc743a0c47",
+         "0x75c8258eaa6d0f94b82951194191ca3efb0bcbe2",
+         "0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f",
          "0x8f86a15ec17cb3369d8b3e666dadbc11daa82b79",
+         "0xaa07a0e9209e16ac99708c3ec70159c6ef3128a3",
          "0xc6911796042b15d7fa4f6cde69e245ddcd3d9c31",
+         "0xd7321801caae694090694ff55a9323139f043b88",
+         "0xe934e36a439c94017b64a3fece66af12099abf50",
+         "0xedbf91223639800bcd5756815caf908df3b890be",
          "0xeeca2e7dc194a320d349122d88259bb9595a4cb0",
          "0xf177d86a28b520e3e396e4f3b96cd8e72d7dabd8"
         ],
@@ -195,7 +307,7 @@
        }
       },
       "robinhood_tradable": {
-       "eligible": 1065902,
+       "eligible": 1069032,
        "before": 0,
        "unknown": 6,
        "followed": 0,
@@ -215,11 +327,11 @@
        }
       },
       "kucoin": {
-       "eligible": 1065902,
+       "eligible": 1069032,
        "before": 0,
        "unknown": 0,
        "followed": 2,
-       "share": 0.000001876,
+       "share": 0.000001871,
        "medianLeadDays": 17.6,
        "tokens": {
         "followed": [
@@ -231,11 +343,11 @@
        }
       },
       "gate": {
-       "eligible": 1065902,
+       "eligible": 1069032,
        "before": 0,
        "unknown": 0,
        "followed": 3,
-       "share": 0.000002815,
+       "share": 0.000002806,
        "medianLeadDays": 16.6,
        "tokens": {
         "followed": [
@@ -246,19 +358,86 @@
         "unknown": [],
         "before": []
        }
+      },
+      "kraken": {
+       "eligible": 1069032,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 1069032,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 1069032,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 1069032,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 1069031,
+       "before": 1,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": [
+         "0xce24439f2d9c6a2289f741120fe202248b666666"
+        ]
+       }
       }
      }
     },
     {
      "days": 90,
-     "steps": 691742,
+     "steps": 697327,
      "outcomes": {
       "any": {
-       "eligible": 691742,
+       "eligible": 697327,
        "before": 0,
-       "unknown": 6,
+       "unknown": 12,
        "followed": 6,
-       "share": 0.000008674,
+       "share": 0.000008604,
        "medianLeadDays": 35.6,
        "tokens": {
         "followed": [
@@ -270,20 +449,26 @@
          "0xe934e36a439c94017b64a3fece66af12099abf50"
         ],
         "unknown": [
+         "0x1755c2910c126ee1b0cf1e08a307dc9e787285a0",
+         "0x32c85eb5e0686d5a8fa1bd9eeb1a432c3facbd50",
          "0x492641f648a4986844848e0befe66d14817bce34",
          "0x56910d4409f3a0c78c64dd8d0545ff0705389870",
          "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+         "0x6245e67affa44a23077f0ea7f981a8dc743a0c47",
+         "0x75c8258eaa6d0f94b82951194191ca3efb0bcbe2",
+         "0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f",
          "0x8f86a15ec17cb3369d8b3e666dadbc11daa82b79",
          "0xc6911796042b15d7fa4f6cde69e245ddcd3d9c31",
+         "0xd7321801caae694090694ff55a9323139f043b88",
          "0xf177d86a28b520e3e396e4f3b96cd8e72d7dabd8"
         ],
         "before": []
        }
       },
       "robinhood_page": {
-       "eligible": 691742,
+       "eligible": 697327,
        "before": 0,
-       "unknown": 7,
+       "unknown": 16,
        "followed": 0,
        "share": 0,
        "medianLeadDays": null,
@@ -291,18 +476,27 @@
         "followed": [],
         "unknown": [
          "0x020bfc650a365f8bb26819deaabf3e21291018b4",
+         "0x1755c2910c126ee1b0cf1e08a307dc9e787285a0",
+         "0x2e8c31162b855a2ffa90f6f8634643ad6f111e18",
+         "0x32c85eb5e0686d5a8fa1bd9eeb1a432c3facbd50",
+         "0x39dbed3a2bd333467115de45665cc57f813c4571",
          "0x492641f648a4986844848e0befe66d14817bce34",
          "0x56910d4409f3a0c78c64dd8d0545ff0705389870",
          "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+         "0x6245e67affa44a23077f0ea7f981a8dc743a0c47",
+         "0x75c8258eaa6d0f94b82951194191ca3efb0bcbe2",
+         "0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f",
          "0x8f86a15ec17cb3369d8b3e666dadbc11daa82b79",
          "0xc6911796042b15d7fa4f6cde69e245ddcd3d9c31",
+         "0xd7321801caae694090694ff55a9323139f043b88",
+         "0xe934e36a439c94017b64a3fece66af12099abf50",
          "0xf177d86a28b520e3e396e4f3b96cd8e72d7dabd8"
         ],
         "before": []
        }
       },
       "robinhood_tradable": {
-       "eligible": 691742,
+       "eligible": 697327,
        "before": 0,
        "unknown": 5,
        "followed": 0,
@@ -321,11 +515,11 @@
        }
       },
       "kucoin": {
-       "eligible": 691742,
+       "eligible": 697327,
        "before": 0,
        "unknown": 0,
        "followed": 3,
-       "share": 0.000004337,
+       "share": 0.000004302,
        "medianLeadDays": 26.6,
        "tokens": {
         "followed": [
@@ -338,11 +532,11 @@
        }
       },
       "gate": {
-       "eligible": 691742,
+       "eligible": 697327,
        "before": 0,
        "unknown": 0,
        "followed": 6,
-       "share": 0.000008674,
+       "share": 0.000008604,
        "medianLeadDays": 47.2,
        "tokens": {
         "followed": [
@@ -352,6 +546,73 @@
          "0x5cb6f181081301b44905f3ae15419112ecabd8a6",
          "0x98096d17e191b3da1d5f99a6d7b3584351b11e18",
          "0xe934e36a439c94017b64a3fece66af12099abf50"
+        ],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "kraken": {
+       "eligible": 697327,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 697327,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 697327,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 697327,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 697327,
+       "before": 0,
+       "unknown": 0,
+       "followed": 1,
+       "share": 0.000001434,
+       "medianLeadDays": 55.7,
+       "tokens": {
+        "followed": [
+         "0x39dbed3a2bd333467115de45665cc57f813c4571"
         ],
         "unknown": [],
         "before": []
@@ -438,6 +699,71 @@
         "unknown": [],
         "before": []
        }
+      },
+      "kraken": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
       }
      }
     },
@@ -498,6 +824,71 @@
        }
       },
       "gate": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "kraken": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
        "eligible": 0,
        "before": 0,
        "unknown": 0,
@@ -580,6 +971,71 @@
         "unknown": [],
         "before": []
        }
+      },
+      "kraken": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
       }
      }
     }
@@ -591,12 +1047,8 @@
    "n": 308,
    "undated": 0,
    "unconfirmed": {
-    "rows": 3,
-    "tokens": [
-     "0x39dbed3a2bd333467115de45665cc57f813c4571",
-     "0xaa07a0e9209e16ac99708c3ec70159c6ef3128a3",
-     "0xe934e36a439c94017b64a3fece66af12099abf50"
-    ]
+    "rows": 0,
+    "tokens": []
    },
    "windows": [
     {
@@ -606,14 +1058,16 @@
       "any": {
        "eligible": 303,
        "before": 5,
-       "unknown": 1,
+       "unknown": 3,
        "followed": 0,
        "share": 0,
        "medianLeadDays": null,
        "tokens": {
         "followed": [],
         "unknown": [
-         "0x56910d4409f3a0c78c64dd8d0545ff0705389870"
+         "0x56910d4409f3a0c78c64dd8d0545ff0705389870",
+         "0xaa07a0e9209e16ac99708c3ec70159c6ef3128a3",
+         "0xe934e36a439c94017b64a3fece66af12099abf50"
         ],
         "before": [
          "0x020bfc650a365f8bb26819deaabf3e21291018b4",
@@ -627,7 +1081,7 @@
       "robinhood_page": {
        "eligible": 308,
        "before": 0,
-       "unknown": 2,
+       "unknown": 6,
        "followed": 0,
        "share": 0,
        "medianLeadDays": null,
@@ -635,7 +1089,11 @@
         "followed": [],
         "unknown": [
          "0x020bfc650a365f8bb26819deaabf3e21291018b4",
-         "0x56910d4409f3a0c78c64dd8d0545ff0705389870"
+         "0x2e8c31162b855a2ffa90f6f8634643ad6f111e18",
+         "0x39dbed3a2bd333467115de45665cc57f813c4571",
+         "0x56910d4409f3a0c78c64dd8d0545ff0705389870",
+         "0xaa07a0e9209e16ac99708c3ec70159c6ef3128a3",
+         "0xe934e36a439c94017b64a3fece66af12099abf50"
         ],
         "before": []
        }
@@ -690,6 +1148,71 @@
          "0x5fc5360d0400a0fd4f2af552add042d716f1d168"
         ]
        }
+      },
+      "kraken": {
+       "eligible": 308,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 308,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 308,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 308,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 308,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
       }
      }
     },
@@ -700,16 +1223,17 @@
       "any": {
        "eligible": 301,
        "before": 5,
-       "unknown": 1,
+       "unknown": 2,
        "followed": 1,
-       "share": 0.003333,
+       "share": 0.003344,
        "medianLeadDays": 7.1,
        "tokens": {
         "followed": [
          "0xe934e36a439c94017b64a3fece66af12099abf50"
         ],
         "unknown": [
-         "0x56910d4409f3a0c78c64dd8d0545ff0705389870"
+         "0x56910d4409f3a0c78c64dd8d0545ff0705389870",
+         "0xaa07a0e9209e16ac99708c3ec70159c6ef3128a3"
         ],
         "before": [
          "0x020bfc650a365f8bb26819deaabf3e21291018b4",
@@ -723,7 +1247,7 @@
       "robinhood_page": {
        "eligible": 306,
        "before": 0,
-       "unknown": 2,
+       "unknown": 6,
        "followed": 0,
        "share": 0,
        "medianLeadDays": null,
@@ -731,7 +1255,11 @@
         "followed": [],
         "unknown": [
          "0x020bfc650a365f8bb26819deaabf3e21291018b4",
-         "0x56910d4409f3a0c78c64dd8d0545ff0705389870"
+         "0x2e8c31162b855a2ffa90f6f8634643ad6f111e18",
+         "0x39dbed3a2bd333467115de45665cc57f813c4571",
+         "0x56910d4409f3a0c78c64dd8d0545ff0705389870",
+         "0xaa07a0e9209e16ac99708c3ec70159c6ef3128a3",
+         "0xe934e36a439c94017b64a3fece66af12099abf50"
         ],
         "before": []
        }
@@ -788,6 +1316,73 @@
          "0x5cb6f181081301b44905f3ae15419112ecabd8a6",
          "0x5fc5360d0400a0fd4f2af552add042d716f1d168"
         ]
+       }
+      },
+      "kraken": {
+       "eligible": 306,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 306,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 306,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 306,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 306,
+       "before": 0,
+       "unknown": 0,
+       "followed": 1,
+       "share": 0.003268,
+       "medianLeadDays": 7.2,
+       "tokens": {
+        "followed": [
+         "0x39dbed3a2bd333467115de45665cc57f813c4571"
+        ],
+        "unknown": [],
+        "before": []
        }
       }
      }
@@ -873,6 +1468,71 @@
         "before": [
          "0x5fc5360d0400a0fd4f2af552add042d716f1d168"
         ]
+       }
+      },
+      "kraken": {
+       "eligible": 205,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 205,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 205,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 205,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 205,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
        }
       }
      }
@@ -1194,12 +1854,8 @@
    "n": 0,
    "undated": 308,
    "unconfirmed": {
-    "rows": 3,
-    "tokens": [
-     "0x39dbed3a2bd333467115de45665cc57f813c4571",
-     "0xaa07a0e9209e16ac99708c3ec70159c6ef3128a3",
-     "0xe934e36a439c94017b64a3fece66af12099abf50"
-    ]
+    "rows": 0,
+    "tokens": []
    },
    "windows": [
     {
@@ -1259,6 +1915,71 @@
        }
       },
       "gate": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "kraken": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
        "eligible": 0,
        "before": 0,
        "unknown": 0,
@@ -1341,6 +2062,71 @@
         "unknown": [],
         "before": []
        }
+      },
+      "kraken": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
       }
      }
     },
@@ -1412,6 +2198,71 @@
         "unknown": [],
         "before": []
        }
+      },
+      "kraken": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
       }
      }
     }
@@ -1420,7 +2271,7 @@
   },
   {
    "step": "listing_pr",
-   "n": 3,
+   "n": 4,
    "undated": 0,
    "unconfirmed": {
     "rows": 0,
@@ -1495,6 +2346,71 @@
         "unknown": [],
         "before": []
        }
+      },
+      "kraken": {
+       "eligible": 2,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 2,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 2,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 2,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 2,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
       }
      }
     },
@@ -1555,6 +2471,71 @@
        }
       },
       "gate": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "kraken": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
        "eligible": 0,
        "before": 0,
        "unknown": 0,
@@ -1637,6 +2618,71 @@
         "unknown": [],
         "before": []
        }
+      },
+      "kraken": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
       }
      }
     }
@@ -1644,6 +2690,7 @@
    "tokens": [
     "0x2ed26dd7befe020b39916e9ceaf1d6a96a52cdd6",
     "0x5f2b0542caa2e6b8dab50bfa846063a723b5823b",
+    "0x7616c89d04033f608b71df6b33b54c8f5de5ba7c",
     "0xbbb6c29bcc3a1028a2b54310df73f4f7a3bcb373"
    ]
   },
@@ -1661,8 +2708,8 @@
      "steps": 229,
      "outcomes": {
       "any": {
-       "eligible": 228,
-       "before": 1,
+       "eligible": 227,
+       "before": 2,
        "unknown": 4,
        "followed": 0,
        "share": 0,
@@ -1676,7 +2723,8 @@
          "0xc6911796042b15d7fa4f6cde69e245ddcd3d9c31"
         ],
         "before": [
-         "0x5fc5360d0400a0fd4f2af552add042d716f1d168"
+         "0x5fc5360d0400a0fd4f2af552add042d716f1d168",
+         "0xce24439f2d9c6a2289f741120fe202248b666666"
         ]
        }
       },
@@ -1744,6 +2792,73 @@
          "0x5fc5360d0400a0fd4f2af552add042d716f1d168"
         ]
        }
+      },
+      "kraken": {
+       "eligible": 229,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 229,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 229,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 229,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 228,
+       "before": 1,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": [
+         "0xce24439f2d9c6a2289f741120fe202248b666666"
+        ]
+       }
       }
      }
     },
@@ -1752,11 +2867,11 @@
      "steps": 229,
      "outcomes": {
       "any": {
-       "eligible": 228,
-       "before": 1,
+       "eligible": 227,
+       "before": 2,
        "unknown": 3,
        "followed": 1,
-       "share": 0.004444,
+       "share": 0.004464,
        "medianLeadDays": 7.2,
        "tokens": {
         "followed": [
@@ -1768,7 +2883,8 @@
          "0xc6911796042b15d7fa4f6cde69e245ddcd3d9c31"
         ],
         "before": [
-         "0x5fc5360d0400a0fd4f2af552add042d716f1d168"
+         "0x5fc5360d0400a0fd4f2af552add042d716f1d168",
+         "0xce24439f2d9c6a2289f741120fe202248b666666"
         ]
        }
       },
@@ -1836,6 +2952,73 @@
         "unknown": [],
         "before": [
          "0x5fc5360d0400a0fd4f2af552add042d716f1d168"
+        ]
+       }
+      },
+      "kraken": {
+       "eligible": 229,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 229,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 229,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 229,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 228,
+       "before": 1,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": [
+         "0xce24439f2d9c6a2289f741120fe202248b666666"
         ]
        }
       }
@@ -1933,6 +3116,71 @@
         "before": [
          "0x5fc5360d0400a0fd4f2af552add042d716f1d168"
         ]
+       }
+      },
+      "kraken": {
+       "eligible": 127,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 127,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 127,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 127,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 127,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
        }
       }
      }
@@ -2173,31 +3421,19 @@
   },
   {
    "step": "aggregator",
-   "n": 28,
-   "undated": 1540,
+   "n": 38,
+   "undated": 1537,
    "unconfirmed": {
-    "rows": 21,
+    "rows": 9,
     "tokens": [
-     "0x000050e18ffa3f8f7ad170eb9cef160eb3ed1111",
      "0x16391c40e85fb2246a2c8c17bfa2594c5d3ef84b",
-     "0x1755c2910c126ee1b0cf1e08a307dc9e787285a0",
-     "0x32c85eb5e0686d5a8fa1bd9eeb1a432c3facbd50",
-     "0x39dbed3a2bd333467115de45665cc57f813c4571",
      "0x5baaec1b70864f01dbdb747358ff59f2e2ccf7d5",
-     "0x5e49e1f85813f2b65858860a3fa231b4186f2e0e",
-     "0x6245e67affa44a23077f0ea7f981a8dc743a0c47",
      "0x6e9acbfbdd8b57649ffeacea4d26a81ae1395367",
      "0x7ad7b2256ffcf7c6f7c7d95cf238d2ecc2c485e0",
-     "0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f",
      "0x808a9d5071e7d5f58490cb7385027536bbe43ef0",
-     "0x8d1c258c76c87559078bb3b2b77a1f9c41f58eeb",
      "0x9161cdb8bd4c21375e85c3fe7a5ce74a6ba5da06",
      "0xa74a94c15b95f8d5f3abdd2db00f6c7384037b55",
-     "0xaa07a0e9209e16ac99708c3ec70159c6ef3128a3",
      "0xb47efcc461d3cd6b270daf15388a77a3fae64ad1",
-     "0xd7321801caae694090694ff55a9323139f043b88",
-     "0xe934e36a439c94017b64a3fece66af12099abf50",
-     "0xedbf91223639800bcd5756815caf908df3b890be",
      "0xf55f03ea76c4e21f263631b1860b55e255acb339"
     ]
    },
@@ -2270,6 +3506,71 @@
         "unknown": [],
         "before": []
        }
+      },
+      "kraken": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
       }
      }
     },
@@ -2330,6 +3631,71 @@
        }
       },
       "gate": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "kraken": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
        "eligible": 0,
        "before": 0,
        "unknown": 0,
@@ -2412,6 +3778,71 @@
         "unknown": [],
         "before": []
        }
+      },
+      "kraken": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
       }
      }
     }
@@ -2419,6 +3850,9 @@
    "tokens": [
     "0x030fa758dad53f0d6e23cfd3a8fe7bc7b54e5ac9",
     "0x0ab97c73e1ce0f649309dc48e3810ac78c4df242",
+    "0x0f2c5b7a7625c7b097759dd7165177d63fbb8b03",
+    "0x189505a04f906debdc79ac3c2374c1922eb90012",
+    "0x238e40b75ae78a1388a14e517d855893e92e58db",
     "0x28c5cf814cffca7a96a111c2e699b8ca8e78b304",
     "0x303c2c6945ed73a4ed46fff5e0b309e78611a07d",
     "0x3786728a2c49c4617bf4fe5bd82b90b6b0df5508",
@@ -2429,18 +3863,25 @@
     "0x5614deffc4ed6e40f795fc79cdb415e52a6227e5",
     "0x616bcd920e1e1f354750bbaf2fb3b3fa3b4aae16",
     "0x6249519883b8d7ccf915dfcd6c0442984dae9d24",
+    "0x724a163f0081fa1771590dda9b55edde2c5b823a",
     "0x7541872e32bb529d7ff11d6c59832269ce33a6ff",
     "0x7b7d785a2ba95d39f97fce44f5b2169895855b7e",
     "0x84b7515081a7ac5adc26179b77a8b18a8c6725c0",
+    "0x8ad5a580c4215086dec828d8626b95a06d7d00cc",
     "0x8fcf98e1348d3ddee46cdd15a5c7d9a8d423077d",
+    "0x92663c3b9f7a27d736a67fd10df5416c5dd5625a",
+    "0x97216593d3b2769da6f0adeee6fb8e36da4e319f",
     "0x9e5e02f5c9ea48931d4e8f488089103e93f925ff",
     "0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90",
+    "0xac14f16c913c6f261238793df2ab2eb8579f7b0b",
     "0xb41c7ac9d46a980f8bdf1894b392a2a07ec9992a",
+    "0xb911f04a24a9f6234537829290335e623ee71e18",
     "0xb9f89a5a075cc280362c5167c5e95723bb2c8cad",
     "0xbbb6c29bcc3a1028a2b54310df73f4f7a3bcb373",
     "0xbc2283d12b1f2f46c1613ae672e95c55b69ca414",
     "0xcb5566e73bee5390c75df834d4727dcecc65fc87",
     "0xcd1cca2b3d0a11b295c42fe765ea8f895c2d0901",
+    "0xd0d179a76db0988296cb7ca9658f0d4bf40578bc",
     "0xe170dc96ca10103e0d4c5d9293c5a3a72ee365a5",
     "0xea3b282273e9ab901790694add171c2606d71e18",
     "0xf0e17e54239cd945cd7bea471a3a2ca6a8c7f7a3",
@@ -2452,10 +3893,8 @@
    "n": 30,
    "undated": 0,
    "unconfirmed": {
-    "rows": 1,
-    "tokens": [
-     "0x39dbed3a2bd333467115de45665cc57f813c4571"
-    ]
+    "rows": 0,
+    "tokens": []
    },
    "windows": [
     {
@@ -2483,7 +3922,7 @@
       "robinhood_page": {
        "eligible": 29,
        "before": 0,
-       "unknown": 2,
+       "unknown": 3,
        "followed": 0,
        "share": 0,
        "medianLeadDays": null,
@@ -2491,6 +3930,7 @@
         "followed": [],
         "unknown": [
          "0x020bfc650a365f8bb26819deaabf3e21291018b4",
+         "0x39dbed3a2bd333467115de45665cc57f813c4571",
          "0xc6911796042b15d7fa4f6cde69e245ddcd3d9c31"
         ],
         "before": []
@@ -2542,6 +3982,73 @@
          "0x39dbed3a2bd333467115de45665cc57f813c4571"
         ]
        }
+      },
+      "kraken": {
+       "eligible": 29,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 29,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 29,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 29,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 29,
+       "before": 0,
+       "unknown": 0,
+       "followed": 1,
+       "share": 0.03448,
+       "medianLeadDays": 6.1,
+       "tokens": {
+        "followed": [
+         "0x39dbed3a2bd333467115de45665cc57f813c4571"
+        ],
+        "unknown": [],
+        "before": []
+       }
       }
      }
     },
@@ -2570,7 +4077,7 @@
       "robinhood_page": {
        "eligible": 27,
        "before": 0,
-       "unknown": 2,
+       "unknown": 3,
        "followed": 0,
        "share": 0,
        "medianLeadDays": null,
@@ -2578,6 +4085,7 @@
         "followed": [],
         "unknown": [
          "0x020bfc650a365f8bb26819deaabf3e21291018b4",
+         "0x39dbed3a2bd333467115de45665cc57f813c4571",
          "0xc6911796042b15d7fa4f6cde69e245ddcd3d9c31"
         ],
         "before": []
@@ -2631,6 +4139,73 @@
          "0x39dbed3a2bd333467115de45665cc57f813c4571"
         ]
        }
+      },
+      "kraken": {
+       "eligible": 27,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 27,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 27,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 27,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 27,
+       "before": 0,
+       "unknown": 0,
+       "followed": 1,
+       "share": 0.03704,
+       "medianLeadDays": 6.1,
+       "tokens": {
+        "followed": [
+         "0x39dbed3a2bd333467115de45665cc57f813c4571"
+        ],
+        "unknown": [],
+        "before": []
+       }
       }
      }
     },
@@ -2716,6 +4291,71 @@
         "unknown": [],
         "before": []
        }
+      },
+      "kraken": {
+       "eligible": 10,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 10,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 10,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 10,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 10,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
       }
      }
     }
@@ -2758,10 +4398,8 @@
    "n": 29,
    "undated": 0,
    "unconfirmed": {
-    "rows": 1,
-    "tokens": [
-     "0x39dbed3a2bd333467115de45665cc57f813c4571"
-    ]
+    "rows": 0,
+    "tokens": []
    },
    "windows": [
     {
@@ -2789,7 +4427,7 @@
       "robinhood_page": {
        "eligible": 28,
        "before": 0,
-       "unknown": 2,
+       "unknown": 3,
        "followed": 0,
        "share": 0,
        "medianLeadDays": null,
@@ -2797,6 +4435,7 @@
         "followed": [],
         "unknown": [
          "0x020bfc650a365f8bb26819deaabf3e21291018b4",
+         "0x39dbed3a2bd333467115de45665cc57f813c4571",
          "0xc6911796042b15d7fa4f6cde69e245ddcd3d9c31"
         ],
         "before": []
@@ -2848,6 +4487,71 @@
          "0x39dbed3a2bd333467115de45665cc57f813c4571"
         ]
        }
+      },
+      "kraken": {
+       "eligible": 28,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 28,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 28,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 28,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 28,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
       }
      }
     },
@@ -2876,7 +4580,7 @@
       "robinhood_page": {
        "eligible": 25,
        "before": 0,
-       "unknown": 2,
+       "unknown": 3,
        "followed": 0,
        "share": 0,
        "medianLeadDays": null,
@@ -2884,6 +4588,7 @@
         "followed": [],
         "unknown": [
          "0x020bfc650a365f8bb26819deaabf3e21291018b4",
+         "0x39dbed3a2bd333467115de45665cc57f813c4571",
          "0xc6911796042b15d7fa4f6cde69e245ddcd3d9c31"
         ],
         "before": []
@@ -2936,6 +4641,73 @@
         "before": [
          "0x39dbed3a2bd333467115de45665cc57f813c4571"
         ]
+       }
+      },
+      "kraken": {
+       "eligible": 25,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 25,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 25,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 25,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 25,
+       "before": 0,
+       "unknown": 0,
+       "followed": 1,
+       "share": 0.04,
+       "medianLeadDays": 7,
+       "tokens": {
+        "followed": [
+         "0x39dbed3a2bd333467115de45665cc57f813c4571"
+        ],
+        "unknown": [],
+        "before": []
        }
       }
      }
@@ -3022,6 +4794,71 @@
         "unknown": [],
         "before": []
        }
+      },
+      "kraken": {
+       "eligible": 10,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 10,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 10,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 10,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 10,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": 0,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
       }
      }
     }
@@ -3057,6 +4894,426 @@
     "0xec262a75e413fafd0df80480274532c79d42da09",
     "0xff080c8ce2e5feadaca0da81314ae59d232d4afd"
    ]
+  },
+  {
+   "step": "announcement",
+   "n": 0,
+   "undated": 0,
+   "unconfirmed": {
+    "rows": 0,
+    "tokens": []
+   },
+   "windows": [
+    {
+     "days": 7,
+     "steps": 0,
+     "outcomes": {
+      "any": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "robinhood_page": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "robinhood_tradable": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "kucoin": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "gate": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "kraken": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      }
+     }
+    },
+    {
+     "days": 30,
+     "steps": 0,
+     "outcomes": {
+      "any": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "robinhood_page": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "robinhood_tradable": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "kucoin": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "gate": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "kraken": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      }
+     }
+    },
+    {
+     "days": 90,
+     "steps": 0,
+     "outcomes": {
+      "any": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "robinhood_page": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "robinhood_tradable": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "kucoin": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "gate": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "kraken": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "binance_futures": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "upbit": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bithumb": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      },
+      "bitget": {
+       "eligible": 0,
+       "before": 0,
+       "unknown": 0,
+       "followed": 0,
+       "share": null,
+       "medianLeadDays": null,
+       "tokens": {
+        "followed": [],
+        "unknown": [],
+        "before": []
+       }
+      }
+     }
+    }
+   ],
+   "tokens": []
   }
  ],
  "pools": {
@@ -15019,7 +17276,75 @@
    8,
    17,
    13,
-   2
+   5,
+   11,
+   8,
+   11,
+   12,
+   11,
+   26,
+   13,
+   11,
+   40,
+   9,
+   8,
+   5,
+   8,
+   19,
+   20,
+   10,
+   10,
+   6,
+   10,
+   14,
+   11,
+   23,
+   12,
+   9,
+   19,
+   37,
+   25,
+   31,
+   11,
+   11,
+   10,
+   19,
+   16,
+   17,
+   9,
+   8,
+   40,
+   44,
+   22,
+   31,
+   12,
+   27,
+   42,
+   32,
+   10,
+   19,
+   67,
+   31,
+   27,
+   27,
+   19,
+   23,
+   28,
+   15,
+   19,
+   25,
+   41,
+   26,
+   17,
+   18,
+   12,
+   24,
+   13,
+   14,
+   17,
+   6,
+   17,
+   13
   ],
   "ends": [
    1779520644,
@@ -26979,7 +29304,75 @@
    1795229470,
    1795230541,
    1795231564,
-   1795231858
+   1795232591,
+   1795233601,
+   1795234610,
+   1795235620,
+   1795236646,
+   1795237693,
+   1795238742,
+   1795239782,
+   1795240823,
+   1795241866,
+   1795242899,
+   1795243915,
+   1795244933,
+   1795245991,
+   1795247138,
+   1795248242,
+   1795249349,
+   1795250450,
+   1795251520,
+   1795252603,
+   1795253763,
+   1795254885,
+   1795255974,
+   1795257073,
+   1795258172,
+   1795259300,
+   1795260435,
+   1795261490,
+   1795262567,
+   1795263669,
+   1795264783,
+   1795265915,
+   1795267005,
+   1795268058,
+   1795269077,
+   1795270115,
+   1795271158,
+   1795272229,
+   1795273343,
+   1795274419,
+   1795275477,
+   1795276561,
+   1795277655,
+   1795278758,
+   1795279828,
+   1795280900,
+   1795281995,
+   1795283157,
+   1795284300,
+   1795285477,
+   1795286585,
+   1795287705,
+   1795288857,
+   1795290029,
+   1795291169,
+   1795292309,
+   1795293488,
+   1795294612,
+   1795295685,
+   1795296840,
+   1795298016,
+   1795299170,
+   1795300366,
+   1795301594,
+   1795302793,
+   1795304051,
+   1795305278,
+   1795306430,
+   1795307440
   ]
  }
 }
