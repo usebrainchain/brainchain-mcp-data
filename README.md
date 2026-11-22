@@ -18,6 +18,7 @@ Every Robinhood Chain token that BitGo supports, every Robinhood Chain token on 
 | `pools/NNN.jsonl` | Every token's first pool on each Uniswap venue, one file for each 5,000,000 blocks. A pool row carries its block, whose time is the block's. |
 | `symbols/XX.jsonl` | The symbol each token with a pool gives itself, in 256 files by the first byte of the SHA-256 of the symbol in capitals, for looking a symbol up. |
 | `events.csv`, `outcomes.csv` | The same rows as the two JSONL files, for spreadsheets. |
+| `calls.jsonl`, `calls.csv` | One row per call made with the BrainChain MCP's `brainchain_call` by the time the day was read: the wallet that paid for it, the token, the outcome it called, its window and deadline, whether Jev accepted it, and how that day's outcomes settle it. See [Graded calls](#graded-calls). |
 | `base-rates.json` | Counts of what followed each kind of step, and every token's first pool counted by stretch of 10,000 blocks with the time each stretch ended. See [Counts, not forecasts](#counts-not-forecasts). |
 | `feed.json`, `feed.xml` | The newest steps and outcomes as a [JSON Feed 1.1](https://www.jsonfeed.org/version/1.1/) and as RSS 2.0, so an agent can follow the record by polling one file. |
 | `manifests/YYYY-MM-DD.json` | One per day: the SHA-256 and row count of every file published that day. |
@@ -43,6 +44,23 @@ A pool row in `pools/` written by the first run has the same `backfill: true`, a
 ## How outcomes are tied to a token
 
 KuCoin and Gate name the contract they list on Robinhood Chain. Robinhood names an asset by its symbol only, so a Robinhood row is tied to a token by symbol and confirmed by Robinhood's own name for the asset, from its pair list or its page. A Robinhood row with nothing but the symbol to go on has `match: "symbol"` and `unconfirmed: true`: a token on Robinhood Chain can call itself by another asset's symbol, so such a row is kept and counted in no rate. Bitstamp is not read: its robots.txt closes its API to automated clients.
+
+## Graded calls
+
+An agent can put a call on record with `brainchain_call`: that a token is listed within 7, 30 or 90 days, at any venue this record reads or at one of them. The call is a paid grade on BrainChain, recorded on its DecisionLog with the wallet that paid, so a wallet cannot withdraw a call or leave one out.
+
+`calls.jsonl` and `calls.csv` list every call recorded by the day's `readAt`. Each row has `decision` and `grade`, the call's record on BrainChain; `payer`; `token`; `outcome`, either `any` or one venue; `days`; `at`, when BrainChain recorded the call; `deadline`; `accepted`, whether Jev found the call complete (a call counts either way); and `settled`:
+
+| `settled` | When |
+| --- | --- |
+| `hit` | a confirmed outcome for the token is dated after the call and by its deadline |
+| `miss` | the deadline passed before the day was read, with no such outcome |
+| `pending` | the deadline has not passed by the day's `readAt` |
+| `already public` | a confirmed outcome is dated at or before the call |
+
+A hit, or a call already public, names the outcome row that settled it. A row tied by the symbol alone settles nothing. The MCP's `brainchain_calls` tool settles each call the same way from the same files.
+
+The calls files are written whole each day, since a pending call can settle on a later day. A call once listed stays listed, and each day's manifest fixes every call as it stood that day.
 
 ## Manifests
 
