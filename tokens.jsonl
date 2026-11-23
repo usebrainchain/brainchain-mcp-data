@@ -1672,3 +1672,8 @@
 {"token":"0x0F2c5B7A7625C7b097759DD7165177d63fBB8b03","symbol":"GROKIUS","name":"Grokius Maximus","sources":["LI.FI"],"observedAt":"2026-11-21T21:32:37.047Z"}
 {"token":"0x8ad5A580c4215086Dec828d8626b95A06D7D00cc","symbol":"WINK","name":"WinkCat","sources":["LI.FI"],"observedAt":"2026-11-21T21:57:37.283Z"}
 {"token":"0xAc14F16c913C6F261238793dF2Ab2Eb8579f7B0B","symbol":"LION","name":"The Lion","sources":["LI.FI"],"observedAt":"2026-11-21T23:47:38.641Z"}
+{"token":"0x0c25AA36986e0Ae904d0233695E828D08A065fE2","symbol":"FP","name":"Faust Protocol","sources":["LI.FI"],"observedAt":"2026-11-22T06:12:45.396Z"}
+{"token":"0x06FeEEb46B5802ACc9F279Ebe16Ab90c5D6BFc1B","symbol":"USDG","name":"United States Globall Dollars Gold","sources":["Robinhood Chain"],"observedAt":"2026-11-22T07:24:11.546Z"}
+{"token":"0x6dbE95076584f869dD09A44131E9A3C13F34D7D6","symbol":"MORPH","name":"alphamorph","sources":["CoinGecko"],"observedAt":"2026-11-22T09:12:37.898Z"}
+{"token":"0xd281BF1649c5Db6744D23F61BB25B05B4d1dFF35","symbol":"ACAT","name":"Agentic Cat","sources":["CoinGecko"],"observedAt":"2026-11-22T09:12:37.898Z"}
+{"token":"0xb655D046D5C636A139599B74BC0355a35BbE5012","symbol":"USDG","name":"United States Digital Gold Reserve","sources":["Robinhood Chain"],"observedAt":"2026-11-22T17:36:17.077Z"}
