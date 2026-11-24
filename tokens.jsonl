@@ -1677,3 +1677,9 @@
 {"token":"0x6dbE95076584f869dD09A44131E9A3C13F34D7D6","symbol":"MORPH","name":"alphamorph","sources":["CoinGecko"],"observedAt":"2026-11-22T09:12:37.898Z"}
 {"token":"0xd281BF1649c5Db6744D23F61BB25B05B4d1dFF35","symbol":"ACAT","name":"Agentic Cat","sources":["CoinGecko"],"observedAt":"2026-11-22T09:12:37.898Z"}
 {"token":"0xb655D046D5C636A139599B74BC0355a35BbE5012","symbol":"USDG","name":"United States Digital Gold Reserve","sources":["Robinhood Chain"],"observedAt":"2026-11-22T17:36:17.077Z"}
+{"token":"0x851a467a60b917d37dBa8547a07cF7A07A17fFe2","symbol":"MEOWSHI","name":"Meowshi","sources":["LI.FI"],"observedAt":"2026-11-23T04:21:19.815Z"}
+{"token":"0xAfe41f4356c24f716111DE1fbbC84e061D291E18","symbol":"CACHE","name":"Cache Cow","sources":["LI.FI"],"observedAt":"2026-11-23T11:11:24.140Z"}
+{"token":"0x89dA5167eb1A0067f9B3e39A544EF8d4b9c41e18","symbol":"SIT","name":"Board Sit","sources":["LI.FI"],"observedAt":"2026-11-23T14:16:27.215Z"}
+{"token":"0xFdae23CE76018Da62507bB5ef20e6ef5450e8312","symbol":"VAULT","name":"PonsVault","sources":["LI.FI"],"observedAt":"2026-11-23T14:51:28.171Z"}
+{"token":"0xaA0b48DEFDE440B8445bA45DB88cb076Cf261E18","symbol":"TAIWAN","name":"Taiwan Coin","sources":["LI.FI"],"observedAt":"2026-11-23T18:36:33.369Z"}
+{"token":"0x14daD3F05F7e25ee79B780119db96baA6B30e7c0","symbol":"ARENA","name":"Robin Arena","sources":["LI.FI"],"observedAt":"2026-11-23T23:11:40.228Z"}
