@@ -1683,3 +1683,12 @@
 {"token":"0xFdae23CE76018Da62507bB5ef20e6ef5450e8312","symbol":"VAULT","name":"PonsVault","sources":["LI.FI"],"observedAt":"2026-11-23T14:51:28.171Z"}
 {"token":"0xaA0b48DEFDE440B8445bA45DB88cb076Cf261E18","symbol":"TAIWAN","name":"Taiwan Coin","sources":["LI.FI"],"observedAt":"2026-11-23T18:36:33.369Z"}
 {"token":"0x14daD3F05F7e25ee79B780119db96baA6B30e7c0","symbol":"ARENA","name":"Robin Arena","sources":["LI.FI"],"observedAt":"2026-11-23T23:11:40.228Z"}
+{"token":"0xa39d86CE85CaE7549dA7c8f9A59FC6D7148C7eFb","symbol":"USDG","name":"United States Globall Dollars Gold","sources":["Robinhood Chain"],"observedAt":"2026-11-24T05:54:52.467Z"}
+{"token":"0x6Bca58E2bA84ace5a1aBA25B793D198450722D28","symbol":"PMAV","name":"pmav","sources":["LI.FI"],"observedAt":"2026-11-24T06:26:49.405Z"}
+{"token":"0x6f709B6728eA5a6FFF285EF9BBA923Afa8C2C5c3","symbol":"USDG","name":"United States Globall Dollars","sources":["Robinhood Chain"],"observedAt":"2026-11-24T07:05:08.672Z"}
+{"token":"0x44CF4cA3D50B2EE4fB614C7B27f7e5fB72baeaf3","symbol":"PAT","name":"PATRON","sources":["Trust Wallet"],"observedAt":"2026-11-24T07:18:30.118Z"}
+{"token":"0x51Fb76BE80ab6daAa345D818f4E06441816b4fEa","symbol":"NASDANQ","name":"NASDANQ","sources":["LI.FI"],"observedAt":"2026-11-24T12:41:57.346Z"}
+{"token":"0x8C63B6adFb469Bbd0cD5d6EE64F73407f15f4c6c","symbol":"LOGOS","name":"LogosLayer","sources":["LI.FI"],"observedAt":"2026-11-24T13:36:58.380Z"}
+{"token":"0x84B3F4A37eeaD8194f7180ED8aaad43C1b0df537","symbol":"$BANDAR","name":"Bandar Buys BTC","sources":["CoinGecko"],"observedAt":"2026-11-24T15:51:20.754Z"}
+{"token":"0x829B217ad539cCc53b18E53C63873333650e60F9","symbol":"CYBERBEER","name":"cyberbeer","sources":["LI.FI"],"observedAt":"2026-11-24T19:37:07.824Z"}
+{"token":"0xe4F44D4444385B199d65bDBaac486DcAA12E1E18","symbol":"FRAMON","name":"FRAMON","sources":["LI.FI"],"observedAt":"2026-11-24T19:42:07.955Z"}
