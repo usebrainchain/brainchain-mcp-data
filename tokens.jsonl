@@ -1692,3 +1692,7 @@
 {"token":"0x84B3F4A37eeaD8194f7180ED8aaad43C1b0df537","symbol":"$BANDAR","name":"Bandar Buys BTC","sources":["CoinGecko"],"observedAt":"2026-11-24T15:51:20.754Z"}
 {"token":"0x829B217ad539cCc53b18E53C63873333650e60F9","symbol":"CYBERBEER","name":"cyberbeer","sources":["LI.FI"],"observedAt":"2026-11-24T19:37:07.824Z"}
 {"token":"0xe4F44D4444385B199d65bDBaac486DcAA12E1E18","symbol":"FRAMON","name":"FRAMON","sources":["LI.FI"],"observedAt":"2026-11-24T19:42:07.955Z"}
+{"token":"0x196A3Ab28E1e854a040e57576cf94ff99d7F3Acc","symbol":"SERIOUSCAT","name":"Serious Cat","sources":["LI.FI"],"observedAt":"2026-11-25T00:47:15.543Z"}
+{"token":"0xd24688a1d530f648aeD86A835acA8AD6a7e61E18","symbol":"CLANKER","name":"Clanker","sources":["LI.FI"],"observedAt":"2026-11-25T00:47:15.543Z"}
+{"token":"0x4bd2f56720AD5d5Aa077D64e57420a357cb91e18","symbol":"HARAM","name":"HARAMBE","sources":["LI.FI"],"observedAt":"2026-11-25T09:37:27.074Z"}
+{"token":"0xe0Ab3A7A32ef7bBd2a5142D88a73020164a4aA57","symbol":"GENESIS","name":"Genesis Chad","sources":["CoinGecko"],"observedAt":"2026-11-25T16:16:02.308Z"}

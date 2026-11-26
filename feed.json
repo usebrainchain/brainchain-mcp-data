@@ -6,6 +6,90 @@
  "description": "Dated public steps of Robinhood Chain tokens, and the venues that listed them, as the BrainChain MCP records them.",
  "items": [
   {
+   "id": "052038cec5dc096c804e7fee63b35a9a",
+   "title": "SERIOUSCAT (0x196A3Ab28E1e854a040e57576cf94ff99d7F3Acc): a first Uniswap pool",
+   "content_text": "Uniswap v4. Public from 2026-08-05T00:57:40.000Z.",
+   "url": "https://robinhoodchain.blockscout.com/tx/0x83721b3795860afd1a047f7ec7a412c1c732bf1922eb4e86816e7df008d1f8af",
+   "date_published": "2026-11-26T00:30:17.501Z"
+  },
+  {
+   "id": "26495915414a8d1e929089d0d1a79cc2",
+   "title": "HARAM (0x4bd2f56720AD5d5Aa077D64e57420a357cb91e18): a first Uniswap pool",
+   "content_text": "Uniswap v4. Public from 2026-09-03T16:57:57.000Z.",
+   "url": "https://robinhoodchain.blockscout.com/tx/0x5278230f2041643c9fc6c6b004965ac3abf316030f9ac5ee620b3ade6039286b",
+   "date_published": "2026-11-26T00:30:17.501Z"
+  },
+  {
+   "id": "80d96617f737250152234d0dbb796b78",
+   "title": "CLANKER (0xd24688a1d530f648aeD86A835acA8AD6a7e61E18): a first Uniswap pool",
+   "content_text": "Uniswap v3. Public from 2026-08-14T02:57:42.000Z.",
+   "url": "https://robinhoodchain.blockscout.com/tx/0x842f43ca52b9bd083592ce84480a610cdd1c88f3fb0c709948ead5f896502ec8",
+   "date_published": "2026-11-26T00:30:17.501Z"
+  },
+  {
+   "id": "210fd9e00b286d408b33a1419bf50773",
+   "title": "CLANKER (0xd24688a1d530f648aeD86A835acA8AD6a7e61E18): a first Uniswap pool",
+   "content_text": "Uniswap v4. Public from 2026-08-14T00:26:01.000Z.",
+   "url": "https://robinhoodchain.blockscout.com/tx/0x12701d757215e2a9c63b98cef7ea9c2914a2c7532b485d9dd37661674d7e2c31",
+   "date_published": "2026-11-26T00:30:17.501Z"
+  },
+  {
+   "id": "d5249b473333b8d91a59d69865022e3f",
+   "title": "GENESIS (0xe0Ab3A7A32ef7bBd2a5142D88a73020164a4aA57): a first Uniswap pool",
+   "content_text": "Uniswap v4. Public from 2026-11-09T03:08:06.000Z.",
+   "url": "https://robinhoodchain.blockscout.com/tx/0x34209e479e80a9fe3ac4f6a81b75d84d3d76d2ffef97a1103ff492df2b3ac7bb",
+   "date_published": "2026-11-26T00:30:17.501Z"
+  },
+  {
+   "id": "c7bbdae8aa35b3082b5bf668a7bfd508",
+   "title": "HADES (0x923D915DdF0FE60C04AdDac68E13F0d5af03164F): LI.FI or CoinGecko listing it",
+   "content_text": "LI.FI. Public from 2026-11-25T20:31:09.860Z.",
+   "url": "https://li.quest/v1/tokens?chains=4663",
+   "date_published": "2026-11-25T20:31:09.860Z"
+  },
+  {
+   "id": "7453f4254413a8adda06b1347776c098",
+   "title": "GENESIS (0xe0Ab3A7A32ef7bBd2a5142D88a73020164a4aA57): LI.FI or CoinGecko listing it",
+   "content_text": "CoinGecko. Public from 2026-11-25T16:16:02.308Z.",
+   "url": "https://tokens.coingecko.com/robinhood/all.json",
+   "date_published": "2026-11-25T16:16:02.308Z"
+  },
+  {
+   "id": "78692a53f3aeb5b373553ed24a1ab472",
+   "title": "HARAM (0x4bd2f56720AD5d5Aa077D64e57420a357cb91e18): LI.FI or CoinGecko listing it",
+   "content_text": "LI.FI. Public from 2026-11-25T09:37:27.074Z.",
+   "url": "https://li.quest/v1/tokens?chains=4663",
+   "date_published": "2026-11-25T09:37:27.074Z"
+  },
+  {
+   "id": "00fc9f9c21d1858576699736f9682c12",
+   "title": "BOWYER (0xaF4C10fEf50059d1e3E8aB1C80E46DB6A76098B4): LI.FI or CoinGecko listing it",
+   "content_text": "LI.FI. Public from 2026-11-25T03:42:20.167Z.",
+   "url": "https://li.quest/v1/tokens?chains=4663",
+   "date_published": "2026-11-25T03:42:20.167Z"
+  },
+  {
+   "id": "d1362f1cbe980368f12fb98e21f7a0e0",
+   "title": "EQUITY (0x9708eFb3BA2E5D23E973Cae1a8599606333cD4Ad): LI.FI or CoinGecko listing it",
+   "content_text": "LI.FI. Public from 2026-11-25T00:57:16.208Z.",
+   "url": "https://li.quest/v1/tokens?chains=4663",
+   "date_published": "2026-11-25T00:57:16.208Z"
+  },
+  {
+   "id": "bc83fd9e2510697c46a91387f28e503f",
+   "title": "SERIOUSCAT (0x196A3Ab28E1e854a040e57576cf94ff99d7F3Acc): LI.FI or CoinGecko listing it",
+   "content_text": "LI.FI. Public from 2026-11-25T00:47:15.543Z.",
+   "url": "https://li.quest/v1/tokens?chains=4663",
+   "date_published": "2026-11-25T00:47:15.543Z"
+  },
+  {
+   "id": "96bb6f8180db9e97a26aae988227de91",
+   "title": "CLANKER (0xd24688a1d530f648aeD86A835acA8AD6a7e61E18): LI.FI or CoinGecko listing it",
+   "content_text": "LI.FI. Public from 2026-11-25T00:47:15.543Z.",
+   "url": "https://li.quest/v1/tokens?chains=4663",
+   "date_published": "2026-11-25T00:47:15.543Z"
+  },
+  {
    "id": "bbbd2c099f4a59e6211f8ae095d3f07f",
    "title": "PAT (0x44CF4cA3D50B2EE4fB614C7B27f7e5fB72baeaf3): a first Uniswap pool",
    "content_text": "Uniswap v3. Public from 2026-11-17T03:11:16.000Z.",
@@ -620,90 +704,6 @@
    "content_text": "LI.FI. Public from 2026-11-22T04:22:43.357Z.",
    "url": "https://li.quest/v1/tokens?chains=4663",
    "date_published": "2026-11-22T04:22:43.357Z"
-  },
-  {
-   "id": "874d2bf2a8a73ba71455abb2a3d54f8d",
-   "title": "GROKIUS (0x0F2c5B7A7625C7b097759DD7165177d63fBB8b03): a first Uniswap pool",
-   "content_text": "Uniswap v3. Public from 2026-07-16T13:13:36.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0xa1fe3a2241f9bcf88b061a1bdcb7811054f1fb2c8a1f380443e2115dc99aec8d",
-   "date_published": "2026-11-22T00:30:16.011Z"
-  },
-  {
-   "id": "02f04e2faf793746823f94aa869cd1e4",
-   "title": "GROKIUS (0x0F2c5B7A7625C7b097759DD7165177d63fBB8b03): a first Uniswap pool",
-   "content_text": "Uniswap v4. Public from 2026-07-16T13:14:01.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0xd764e55c448cbbdbf26e4152e5bb9ec80462cb7dc10ba301c631a1ef87ea92dc",
-   "date_published": "2026-11-22T00:30:16.011Z"
-  },
-  {
-   "id": "73e0e10de3ed55016f7e5d5267f250ec",
-   "title": "POOLZ (0x189505a04F906dEBDC79Ac3C2374C1922eB90012): a first Uniswap pool",
-   "content_text": "Uniswap v4. Public from 2026-11-17T14:30:45.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0x3cdf58ea7b05e1355277f8895f29f2a2a3879911f903b5809f7a7603542ed8e5",
-   "date_published": "2026-11-22T00:30:16.011Z"
-  },
-  {
-   "id": "6a665c8d40a377de1002956e709f3e53",
-   "title": "BLAST (0x724a163f0081fA1771590Dda9b55eDDe2c5B823a): a first Uniswap pool",
-   "content_text": "Uniswap v3. Public from 2026-09-13T11:34:06.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0x873dd50f17cd3c178f1e08cd2b4957ecfcbcf40b4ebf64793f1c8780ac8bf0f4",
-   "date_published": "2026-11-22T00:30:16.011Z"
-  },
-  {
-   "id": "9c653c11af441573d4cac63fed181097",
-   "title": "BLAST (0x724a163f0081fA1771590Dda9b55eDDe2c5B823a): a first Uniswap pool",
-   "content_text": "Uniswap v4. Public from 2026-09-13T05:23:10.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0x410b2b2e63044c62be318af62e2ca5709e2cb3df8178e16ceec24a1f9159616d",
-   "date_published": "2026-11-22T00:30:16.011Z"
-  },
-  {
-   "id": "691f6a4ce4397c289e2fe76613aaac66",
-   "title": "WINK (0x8ad5A580c4215086Dec828d8626b95A06D7D00cc): a first Uniswap pool",
-   "content_text": "Uniswap v3. Public from 2026-08-03T04:38:33.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0x12cd3921e2586ad95726bd7af54a20bbd6667a94c4c884a98486c0d31efba4ee",
-   "date_published": "2026-11-22T00:30:16.011Z"
-  },
-  {
-   "id": "9b66b601b966e7e67cd6c536b6e61f65",
-   "title": "WINK (0x8ad5A580c4215086Dec828d8626b95A06D7D00cc): a first Uniswap pool",
-   "content_text": "Uniswap v4. Public from 2026-07-30T00:02:29.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0x98df551f3db10b0ed2ba47253bb5e86183019d92cb61a1e673115e213d5be7f6",
-   "date_published": "2026-11-22T00:30:16.011Z"
-  },
-  {
-   "id": "6f8aa3479a9786bde74437e5183213e9",
-   "title": "401K (0x92663C3B9f7a27d736A67Fd10DF5416C5Dd5625a): a first Uniswap pool",
-   "content_text": "Uniswap v4. Public from 2026-08-26T16:22:06.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0xd171137f64b0001e843c69a765100463dcdf4df87e60e1dc6aebf2267aa86cf2",
-   "date_published": "2026-11-22T00:30:16.011Z"
-  },
-  {
-   "id": "c56626a6461df7f3245836203b12341e",
-   "title": "LION (0xAc14F16c913C6F261238793dF2Ab2Eb8579f7B0B): a first Uniswap pool",
-   "content_text": "Uniswap v3. Public from 2026-07-20T20:24:03.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0xe288bf9cfe2d46b89127e8b65c01268088e164389018d6ec5c838714ef9d9c91",
-   "date_published": "2026-11-22T00:30:16.011Z"
-  },
-  {
-   "id": "c8939bf2ffc9a49b49d70b5c1e7b48b9",
-   "title": "LION (0xAc14F16c913C6F261238793dF2Ab2Eb8579f7B0B): a first Uniswap pool",
-   "content_text": "Uniswap v4. Public from 2026-07-20T20:25:01.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0x47b7919974ff21f245dc4ad181244ae76abe3b22c5086cd5b21e34aa2ad3a5ee",
-   "date_published": "2026-11-22T00:30:16.011Z"
-  },
-  {
-   "id": "da0c84f41c2c5997d44fa90c69d6f8f2",
-   "title": "JUICEMAN (0xD0D179A76dB0988296cb7ca9658f0D4Bf40578bC): a first Uniswap pool",
-   "content_text": "Uniswap v3. Public from 2026-07-22T14:48:12.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0xff29a8791a99a919b7f6d08ce9f213d7dd0be25b4c54276076a4c5817923a485",
-   "date_published": "2026-11-22T00:30:16.011Z"
-  },
-  {
-   "id": "4f1cc926cc8812a2afea937a038e2ae5",
-   "title": "JUICEMAN (0xD0D179A76dB0988296cb7ca9658f0D4Bf40578bC): a first Uniswap pool",
-   "content_text": "Uniswap v4. Public from 2026-07-22T14:50:18.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0xeecd07c969e581796ad3530cee33fb1e82e8fa8e1f37a9c8ad9ad9402be44c3f",
-   "date_published": "2026-11-22T00:30:16.011Z"
   }
  ]
 }
