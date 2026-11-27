@@ -1696,3 +1696,12 @@
 {"token":"0xd24688a1d530f648aeD86A835acA8AD6a7e61E18","symbol":"CLANKER","name":"Clanker","sources":["LI.FI"],"observedAt":"2026-11-25T00:47:15.543Z"}
 {"token":"0x4bd2f56720AD5d5Aa077D64e57420a357cb91e18","symbol":"HARAM","name":"HARAMBE","sources":["LI.FI"],"observedAt":"2026-11-25T09:37:27.074Z"}
 {"token":"0xe0Ab3A7A32ef7bBd2a5142D88a73020164a4aA57","symbol":"GENESIS","name":"Genesis Chad","sources":["CoinGecko"],"observedAt":"2026-11-25T16:16:02.308Z"}
+{"token":"0x4E63A67C47AbBb8Dd693D1349CF68f6CbB3Aac47","symbol":"ANALYST","name":"Analyst","sources":["LI.FI"],"observedAt":"2026-11-26T03:21:15.442Z"}
+{"token":"0x8639dEE23bb8a5153B150e55b2Bdb40827D1AFC8","symbol":"MF-ONE","name":"Midas mF-ONE","sources":["CoinGecko"],"observedAt":"2026-11-26T04:16:03.940Z"}
+{"token":"0x6989a8217359aC1C7AA9b651Cb67f226C2fd3ca8","symbol":"KLIK","name":"one KLIK can change your life","sources":["LI.FI"],"observedAt":"2026-11-26T05:31:17.917Z"}
+{"token":"0x524988ccc8D7A23566E2ffFb24B1B07E5Aa2f134","symbol":"IDLEX","name":"Idlex Network","sources":["CoinGecko"],"observedAt":"2026-11-26T06:16:04.446Z"}
+{"token":"0xAA1f4De6b9f7cDf11FB8AA97ce163D35D731CdB1","symbol":"CORBEL","name":"Corbel Finance","sources":["CoinGecko"],"observedAt":"2026-11-26T06:16:04.446Z"}
+{"token":"0x3B6E95B2eD4976F54Cdf551468D9c8f1E132e9a4","symbol":"HEPH","name":"HEPH AI","sources":["CoinGecko"],"observedAt":"2026-11-26T08:16:04.707Z"}
+{"token":"0xB15Cd4C4E42Cdb25fc939815711EA7875F4AA844","symbol":"MOTH","name":"Moth","sources":["CoinGecko"],"observedAt":"2026-11-26T08:16:04.707Z"}
+{"token":"0x971EE6440297240871504A3B3A625C711E47b5Fa","symbol":"USDG","name":"United Syndicate of Degen Greed","sources":["Robinhood Chain"],"observedAt":"2026-11-26T11:39:53.904Z"}
+{"token":"0x0920bBE08DFd9Ac2314Eb9B2B39CB2f3e60bd922","symbol":"KITSU","name":"KITSU","sources":["Robinhood Chain"],"observedAt":"2026-11-26T13:48:57.663Z"}

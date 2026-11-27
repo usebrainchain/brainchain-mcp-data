@@ -1,11 +1,11 @@
 {
- "readAt": "2026-11-26T00:30:17.501Z",
- "headBlock": 123362183,
- "cut": "2026-11-26T00:30:17.000Z",
+ "readAt": "2026-11-27T00:30:17.072Z",
+ "headBlock": 123860045,
+ "cut": "2026-11-27T00:30:16.000Z",
  "through": {
-  "head": 123362183,
-  "pools": 123362363,
-  "approvals": 123362183,
+  "head": 123860045,
+  "pools": 123860271,
+  "approvals": 123860045,
   "wallets": [
    "0x51C72848c68a965f66FA7a88855F9f7784502a7F",
    "0xf8191D98ae98d2f7aBDFB63A9b0b812b93C873AA",
@@ -18,7 +18,7 @@
  "kinds": [
   {
    "step": "pool",
-   "n": 1162039,
+   "n": 1163662,
    "undated": 0,
    "unconfirmed": {
     "rows": 9,
@@ -37,10 +37,10 @@
    "windows": [
     {
      "days": 7,
-     "steps": 1150271,
+     "steps": 1152421,
      "outcomes": {
       "any": {
-       "eligible": 1150270,
+       "eligible": 1152420,
        "before": 1,
        "unknown": 21,
        "followed": 0,
@@ -77,7 +77,7 @@
        }
       },
       "robinhood_page": {
-       "eligible": 1150271,
+       "eligible": 1152421,
        "before": 0,
        "unknown": 21,
        "followed": 0,
@@ -112,7 +112,7 @@
        }
       },
       "robinhood_tradable": {
-       "eligible": 1150271,
+       "eligible": 1152421,
        "before": 0,
        "unknown": 6,
        "followed": 0,
@@ -132,7 +132,7 @@
        }
       },
       "kucoin": {
-       "eligible": 1150271,
+       "eligible": 1152421,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -145,7 +145,7 @@
        }
       },
       "gate": {
-       "eligible": 1150271,
+       "eligible": 1152421,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -158,7 +158,7 @@
        }
       },
       "kraken": {
-       "eligible": 1150271,
+       "eligible": 1152421,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -171,7 +171,7 @@
        }
       },
       "binance_futures": {
-       "eligible": 1150271,
+       "eligible": 1152421,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -184,7 +184,7 @@
        }
       },
       "upbit": {
-       "eligible": 1150271,
+       "eligible": 1152421,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -197,7 +197,7 @@
        }
       },
       "bithumb": {
-       "eligible": 1150271,
+       "eligible": 1152421,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -210,7 +210,7 @@
        }
       },
       "bitget": {
-       "eligible": 1150270,
+       "eligible": 1152420,
        "before": 1,
        "unknown": 0,
        "followed": 0,
@@ -228,14 +228,14 @@
     },
     {
      "days": 30,
-     "steps": 1083464,
+     "steps": 1087241,
      "outcomes": {
       "any": {
-       "eligible": 1083463,
+       "eligible": 1087240,
        "before": 1,
        "unknown": 20,
        "followed": 4,
-       "share": 0.000003692,
+       "share": 0.000003679,
        "medianLeadDays": 17.6,
        "tokens": {
         "followed": [
@@ -272,7 +272,7 @@
        }
       },
       "robinhood_page": {
-       "eligible": 1083464,
+       "eligible": 1087241,
        "before": 0,
        "unknown": 21,
        "followed": 0,
@@ -307,7 +307,7 @@
        }
       },
       "robinhood_tradable": {
-       "eligible": 1083464,
+       "eligible": 1087241,
        "before": 0,
        "unknown": 6,
        "followed": 0,
@@ -327,11 +327,11 @@
        }
       },
       "kucoin": {
-       "eligible": 1083464,
+       "eligible": 1087241,
        "before": 0,
        "unknown": 0,
        "followed": 2,
-       "share": 0.000001846,
+       "share": 0.00000184,
        "medianLeadDays": 17.6,
        "tokens": {
         "followed": [
@@ -343,11 +343,11 @@
        }
       },
       "gate": {
-       "eligible": 1083464,
+       "eligible": 1087241,
        "before": 0,
        "unknown": 0,
        "followed": 3,
-       "share": 0.000002769,
+       "share": 0.000002759,
        "medianLeadDays": 16.6,
        "tokens": {
         "followed": [
@@ -360,7 +360,7 @@
        }
       },
       "kraken": {
-       "eligible": 1083464,
+       "eligible": 1087241,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -373,7 +373,7 @@
        }
       },
       "binance_futures": {
-       "eligible": 1083464,
+       "eligible": 1087241,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -386,7 +386,7 @@
        }
       },
       "upbit": {
-       "eligible": 1083464,
+       "eligible": 1087241,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -399,7 +399,7 @@
        }
       },
       "bithumb": {
-       "eligible": 1083464,
+       "eligible": 1087241,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -412,7 +412,7 @@
        }
       },
       "bitget": {
-       "eligible": 1083463,
+       "eligible": 1087240,
        "before": 1,
        "unknown": 0,
        "followed": 0,
@@ -430,14 +430,14 @@
     },
     {
      "days": 90,
-     "steps": 728114,
+     "steps": 735943,
      "outcomes": {
       "any": {
-       "eligible": 728114,
+       "eligible": 735943,
        "before": 0,
        "unknown": 12,
        "followed": 6,
-       "share": 0.000008241,
+       "share": 0.000008153,
        "medianLeadDays": 35.6,
        "tokens": {
         "followed": [
@@ -466,7 +466,7 @@
        }
       },
       "robinhood_page": {
-       "eligible": 728114,
+       "eligible": 735943,
        "before": 0,
        "unknown": 16,
        "followed": 0,
@@ -496,7 +496,7 @@
        }
       },
       "robinhood_tradable": {
-       "eligible": 728114,
+       "eligible": 735943,
        "before": 0,
        "unknown": 5,
        "followed": 0,
@@ -515,11 +515,11 @@
        }
       },
       "kucoin": {
-       "eligible": 728114,
+       "eligible": 735943,
        "before": 0,
        "unknown": 0,
        "followed": 3,
-       "share": 0.00000412,
+       "share": 0.000004076,
        "medianLeadDays": 26.6,
        "tokens": {
         "followed": [
@@ -532,11 +532,11 @@
        }
       },
       "gate": {
-       "eligible": 728114,
+       "eligible": 735943,
        "before": 0,
        "unknown": 0,
        "followed": 6,
-       "share": 0.00000824,
+       "share": 0.000008153,
        "medianLeadDays": 47.2,
        "tokens": {
         "followed": [
@@ -552,7 +552,7 @@
        }
       },
       "kraken": {
-       "eligible": 728114,
+       "eligible": 735943,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -565,7 +565,7 @@
        }
       },
       "binance_futures": {
-       "eligible": 728114,
+       "eligible": 735943,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -578,7 +578,7 @@
        }
       },
       "upbit": {
-       "eligible": 728114,
+       "eligible": 735943,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -591,7 +591,7 @@
        }
       },
       "bithumb": {
-       "eligible": 728114,
+       "eligible": 735943,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -604,11 +604,11 @@
        }
       },
       "bitget": {
-       "eligible": 728114,
+       "eligible": 735943,
        "before": 0,
        "unknown": 0,
        "followed": 1,
-       "share": 0.000001373,
+       "share": 0.000001359,
        "medianLeadDays": 55.7,
        "tokens": {
         "followed": [
@@ -1389,10 +1389,10 @@
     },
     {
      "days": 90,
-     "steps": 205,
+     "steps": 295,
      "outcomes": {
       "any": {
-       "eligible": 203,
+       "eligible": 293,
        "before": 2,
        "unknown": 0,
        "followed": 0,
@@ -1408,7 +1408,7 @@
        }
       },
       "robinhood_page": {
-       "eligible": 205,
+       "eligible": 295,
        "before": 0,
        "unknown": 1,
        "followed": 0,
@@ -1423,7 +1423,7 @@
        }
       },
       "robinhood_tradable": {
-       "eligible": 205,
+       "eligible": 295,
        "before": 0,
        "unknown": 1,
        "followed": 0,
@@ -1438,7 +1438,7 @@
        }
       },
       "kucoin": {
-       "eligible": 203,
+       "eligible": 293,
        "before": 2,
        "unknown": 0,
        "followed": 0,
@@ -1454,11 +1454,11 @@
        }
       },
       "gate": {
-       "eligible": 204,
+       "eligible": 294,
        "before": 1,
        "unknown": 0,
        "followed": 1,
-       "share": 0.004902,
+       "share": 0.003401,
        "medianLeadDays": 28,
        "tokens": {
         "followed": [
@@ -1471,7 +1471,7 @@
        }
       },
       "kraken": {
-       "eligible": 205,
+       "eligible": 295,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -1484,7 +1484,7 @@
        }
       },
       "binance_futures": {
-       "eligible": 205,
+       "eligible": 295,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -1497,7 +1497,7 @@
        }
       },
       "upbit": {
-       "eligible": 205,
+       "eligible": 295,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -1510,7 +1510,7 @@
        }
       },
       "bithumb": {
-       "eligible": 205,
+       "eligible": 295,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -1523,7 +1523,7 @@
        }
       },
       "bitget": {
-       "eligible": 205,
+       "eligible": 295,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -2280,10 +2280,10 @@
    "windows": [
     {
      "days": 7,
-     "steps": 2,
+     "steps": 3,
      "outcomes": {
       "any": {
-       "eligible": 2,
+       "eligible": 3,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -2296,7 +2296,7 @@
        }
       },
       "robinhood_page": {
-       "eligible": 2,
+       "eligible": 3,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -2309,7 +2309,7 @@
        }
       },
       "robinhood_tradable": {
-       "eligible": 2,
+       "eligible": 3,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -2322,7 +2322,7 @@
        }
       },
       "kucoin": {
-       "eligible": 2,
+       "eligible": 3,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -2335,7 +2335,7 @@
        }
       },
       "gate": {
-       "eligible": 2,
+       "eligible": 3,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -2348,7 +2348,7 @@
        }
       },
       "kraken": {
-       "eligible": 2,
+       "eligible": 3,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -2361,7 +2361,7 @@
        }
       },
       "binance_futures": {
-       "eligible": 2,
+       "eligible": 3,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -2374,7 +2374,7 @@
        }
       },
       "upbit": {
-       "eligible": 2,
+       "eligible": 3,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -2387,7 +2387,7 @@
        }
       },
       "bithumb": {
-       "eligible": 2,
+       "eligible": 3,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -2400,7 +2400,7 @@
        }
       },
       "bitget": {
-       "eligible": 2,
+       "eligible": 3,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -3422,8 +3422,8 @@
   },
   {
    "step": "aggregator",
-   "n": 80,
-   "undated": 1515,
+   "n": 93,
+   "undated": 1509,
    "unconfirmed": {
     "rows": 9,
     "tokens": [
@@ -3441,14 +3441,14 @@
    "windows": [
     {
      "days": 7,
-     "steps": 0,
+     "steps": 10,
      "outcomes": {
       "any": {
-       "eligible": 0,
+       "eligible": 10,
        "before": 0,
        "unknown": 0,
        "followed": 0,
-       "share": null,
+       "share": 0,
        "medianLeadDays": null,
        "tokens": {
         "followed": [],
@@ -3457,11 +3457,11 @@
        }
       },
       "robinhood_page": {
-       "eligible": 0,
+       "eligible": 10,
        "before": 0,
        "unknown": 0,
        "followed": 0,
-       "share": null,
+       "share": 0,
        "medianLeadDays": null,
        "tokens": {
         "followed": [],
@@ -3470,11 +3470,11 @@
        }
       },
       "robinhood_tradable": {
-       "eligible": 0,
+       "eligible": 10,
        "before": 0,
        "unknown": 0,
        "followed": 0,
-       "share": null,
+       "share": 0,
        "medianLeadDays": null,
        "tokens": {
         "followed": [],
@@ -3483,11 +3483,11 @@
        }
       },
       "kucoin": {
-       "eligible": 0,
+       "eligible": 10,
        "before": 0,
        "unknown": 0,
        "followed": 0,
-       "share": null,
+       "share": 0,
        "medianLeadDays": null,
        "tokens": {
         "followed": [],
@@ -3496,11 +3496,11 @@
        }
       },
       "gate": {
-       "eligible": 0,
+       "eligible": 10,
        "before": 0,
        "unknown": 0,
        "followed": 0,
-       "share": null,
+       "share": 0,
        "medianLeadDays": null,
        "tokens": {
         "followed": [],
@@ -3509,11 +3509,11 @@
        }
       },
       "kraken": {
-       "eligible": 0,
+       "eligible": 10,
        "before": 0,
        "unknown": 0,
        "followed": 0,
-       "share": null,
+       "share": 0,
        "medianLeadDays": null,
        "tokens": {
         "followed": [],
@@ -3522,11 +3522,11 @@
        }
       },
       "binance_futures": {
-       "eligible": 0,
+       "eligible": 10,
        "before": 0,
        "unknown": 0,
        "followed": 0,
-       "share": null,
+       "share": 0,
        "medianLeadDays": null,
        "tokens": {
         "followed": [],
@@ -3535,11 +3535,11 @@
        }
       },
       "upbit": {
-       "eligible": 0,
+       "eligible": 10,
        "before": 0,
        "unknown": 0,
        "followed": 0,
-       "share": null,
+       "share": 0,
        "medianLeadDays": null,
        "tokens": {
         "followed": [],
@@ -3548,11 +3548,11 @@
        }
       },
       "bithumb": {
-       "eligible": 0,
+       "eligible": 10,
        "before": 0,
        "unknown": 0,
        "followed": 0,
-       "share": null,
+       "share": 0,
        "medianLeadDays": null,
        "tokens": {
         "followed": [],
@@ -3561,11 +3561,11 @@
        }
       },
       "bitget": {
-       "eligible": 0,
+       "eligible": 10,
        "before": 0,
        "unknown": 0,
        "followed": 0,
-       "share": null,
+       "share": 0,
        "medianLeadDays": null,
        "tokens": {
         "followed": [],
@@ -3857,24 +3857,29 @@
     "0x14dad3f05f7e25ee79b780119db96baa6b30e7c0",
     "0x189505a04f906debdc79ac3c2374c1922eb90012",
     "0x196a3ab28e1e854a040e57576cf94ff99d7f3acc",
+    "0x2103faa9d1762e27a716c61718b3acf3ec1f9bf1",
     "0x238e40b75ae78a1388a14e517d855893e92e58db",
     "0x28c5cf814cffca7a96a111c2e699b8ca8e78b304",
     "0x303c2c6945ed73a4ed46fff5e0b309e78611a07d",
     "0x3786728a2c49c4617bf4fe5bd82b90b6b0df5508",
     "0x398aca5e6ae801b002d684333affadc1a25e897c",
+    "0x3b6e95b2ed4976f54cdf551468d9c8f1e132e9a4",
     "0x3b7157b6409380e09a131b631dfb8dfd2781d9cc",
     "0x3b9b713a3bba6c3388371cfdb072cd70118bb727",
     "0x43e7cb9984ad95aa808ac21998cc8d5f909e47af",
     "0x4bd2f56720ad5d5aa077d64e57420a357cb91e18",
+    "0x4e63a67c47abbb8dd693d1349cf68f6cbb3aac47",
     "0x4eb990547bce4a982432ca88cf5fae7eed1a2d35",
     "0x4f0d7ea112547af5dad59959d98b6a8ee3355bcc",
     "0x51d1abab4d1e7b50642a25d3f7b2823067ebf9d7",
     "0x51fb76be80ab6daaa345d818f4e06441816b4fea",
+    "0x524988ccc8d7a23566e2fffb24b1b07e5aa2f134",
     "0x5266eeaff092d6136ab63d18b975a60a0cc0c8f7",
     "0x5614deffc4ed6e40f795fc79cdb415e52a6227e5",
     "0x616bcd920e1e1f354750bbaf2fb3b3fa3b4aae16",
     "0x6249519883b8d7ccf915dfcd6c0442984dae9d24",
     "0x658bf542c9384dc000a07540b0b29ef7e79fe126",
+    "0x6989a8217359ac1c7aa9b651cb67f226c2fd3ca8",
     "0x6bca58e2ba84ace5a1aba25b793d198450722d28",
     "0x6dbe95076584f869dd09a44131e9a3c13f34d7d6",
     "0x724a163f0081fa1771590dda9b55edde2c5b823a",
@@ -3887,22 +3892,27 @@
     "0x84b3f4a37eead8194f7180ed8aaad43c1b0df537",
     "0x84b7515081a7ac5adc26179b77a8b18a8c6725c0",
     "0x851a467a60b917d37dba8547a07cf7a07a17ffe2",
+    "0x8639dee23bb8a5153b150e55b2bdb40827d1afc8",
     "0x89da5167eb1a0067f9b3e39a544ef8d4b9c41e18",
     "0x8ad5a580c4215086dec828d8626b95a06d7d00cc",
+    "0x8b48e9da0501a3556a961463fcf39bb426501d0d",
     "0x8c63b6adfb469bbd0cd5d6ee64f73407f15f4c6c",
     "0x8fcf98e1348d3ddee46cdd15a5c7d9a8d423077d",
     "0x923d915ddf0fe60c04addac68e13f0d5af03164f",
     "0x92663c3b9f7a27d736a67fd10df5416c5dd5625a",
     "0x92d176ccbeeffecd8089e841d09ea17b6c22d969",
+    "0x948647a06a6422dceea3711297f82aef68ec641c",
     "0x9708efb3ba2e5d23e973cae1a8599606333cd4ad",
     "0x97216593d3b2769da6f0adeee6fb8e36da4e319f",
     "0x9b09c435bc5da088722be47e97989fb1e3ed4eb9",
     "0x9e5e02f5c9ea48931d4e8f488089103e93f925ff",
     "0xa0f46f3868c7f4f8cb2a2a6c929310af4a879d90",
     "0xaa0b48defde440b8445ba45db88cb076cf261e18",
+    "0xaa1f4de6b9f7cdf11fb8aa97ce163d35d731cdb1",
     "0xac14f16c913c6f261238793df2ab2eb8579f7b0b",
     "0xaf4c10fef50059d1e3e8ab1c80e46db6a76098b4",
     "0xafe41f4356c24f716111de1fbbc84e061d291e18",
+    "0xb15cd4c4e42cdb25fc939815711ea7875f4aa844",
     "0xb245a0e4bcf6f7961b68785d54ccdf51eac906c1",
     "0xb41c7ac9d46a980f8bdf1894b392a2a07ec9992a",
     "0xb911f04a24a9f6234537829290335e623ee71e18",
@@ -3916,7 +3926,9 @@
     "0xd24688a1d530f648aed86a835aca8ad6a7e61e18",
     "0xd281bf1649c5db6744d23f61bb25b05b4d1dff35",
     "0xd4aae326ddd1a2537a92c00e6576e4605e5d1e18",
+    "0xd928a068d2b90798373a470c9d9ba562322acdef",
     "0xdb87393727b666c43f5aecb03d8b419ba54d9b03",
+    "0xdc453b1405cfe25e2afba8e7f4272b0a00437777",
     "0xddec0170ceb4426ea05f2fbd485dffa4fafa6615",
     "0xe02c53d448a62067b2ac10ed70f5bc6c29471386",
     "0xe0ab3a7a32ef7bbd2a5142d88a73020164a4aa57",
@@ -3924,6 +3936,7 @@
     "0xe4f44d4444385b199d65bdbaac486dcaa12e1e18",
     "0xea3b282273e9ab901790694add171c2606d71e18",
     "0xeaa9abb805db03b6859662354abfe0c2a30902ae",
+    "0xef82ddc566653699b89c3afe123559a75aaa2976",
     "0xf0e17e54239cd945cd7bea471a3a2ca6a8c7f7a3",
     "0xf24f8f6b08fe87cf062e833a732ad7f636064bc8",
     "0xfb60fa2db6a8c6e7d510ad33551defae89a917bb",
@@ -3942,10 +3955,10 @@
    "windows": [
     {
      "days": 7,
-     "steps": 29,
+     "steps": 30,
      "outcomes": {
       "any": {
-       "eligible": 27,
+       "eligible": 28,
        "before": 2,
        "unknown": 1,
        "followed": 0,
@@ -3963,7 +3976,7 @@
        }
       },
       "robinhood_page": {
-       "eligible": 29,
+       "eligible": 30,
        "before": 0,
        "unknown": 3,
        "followed": 0,
@@ -3980,7 +3993,7 @@
        }
       },
       "robinhood_tradable": {
-       "eligible": 29,
+       "eligible": 30,
        "before": 0,
        "unknown": 2,
        "followed": 0,
@@ -3996,7 +4009,7 @@
        }
       },
       "kucoin": {
-       "eligible": 27,
+       "eligible": 28,
        "before": 2,
        "unknown": 0,
        "followed": 0,
@@ -4012,7 +4025,7 @@
        }
       },
       "gate": {
-       "eligible": 28,
+       "eligible": 29,
        "before": 1,
        "unknown": 0,
        "followed": 0,
@@ -4027,7 +4040,7 @@
        }
       },
       "kraken": {
-       "eligible": 29,
+       "eligible": 30,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -4040,7 +4053,7 @@
        }
       },
       "binance_futures": {
-       "eligible": 29,
+       "eligible": 30,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -4053,7 +4066,7 @@
        }
       },
       "upbit": {
-       "eligible": 29,
+       "eligible": 30,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -4066,7 +4079,7 @@
        }
       },
       "bithumb": {
-       "eligible": 29,
+       "eligible": 30,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -4079,11 +4092,11 @@
        }
       },
       "bitget": {
-       "eligible": 29,
+       "eligible": 30,
        "before": 0,
        "unknown": 0,
        "followed": 1,
-       "share": 0.03448,
+       "share": 0.03333,
        "medianLeadDays": 6.1,
        "tokens": {
         "followed": [
@@ -4447,10 +4460,10 @@
    "windows": [
     {
      "days": 7,
-     "steps": 28,
+     "steps": 29,
      "outcomes": {
       "any": {
-       "eligible": 26,
+       "eligible": 27,
        "before": 2,
        "unknown": 1,
        "followed": 0,
@@ -4468,7 +4481,7 @@
        }
       },
       "robinhood_page": {
-       "eligible": 28,
+       "eligible": 29,
        "before": 0,
        "unknown": 3,
        "followed": 0,
@@ -4485,7 +4498,7 @@
        }
       },
       "robinhood_tradable": {
-       "eligible": 28,
+       "eligible": 29,
        "before": 0,
        "unknown": 2,
        "followed": 0,
@@ -4501,7 +4514,7 @@
        }
       },
       "kucoin": {
-       "eligible": 26,
+       "eligible": 27,
        "before": 2,
        "unknown": 0,
        "followed": 0,
@@ -4517,7 +4530,7 @@
        }
       },
       "gate": {
-       "eligible": 27,
+       "eligible": 28,
        "before": 1,
        "unknown": 0,
        "followed": 0,
@@ -4532,7 +4545,7 @@
        }
       },
       "kraken": {
-       "eligible": 28,
+       "eligible": 29,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -4545,7 +4558,7 @@
        }
       },
       "binance_futures": {
-       "eligible": 28,
+       "eligible": 29,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -4558,7 +4571,7 @@
        }
       },
       "upbit": {
-       "eligible": 28,
+       "eligible": 29,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -4571,7 +4584,7 @@
        }
       },
       "bithumb": {
-       "eligible": 28,
+       "eligible": 29,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -4584,7 +4597,7 @@
        }
       },
       "bitget": {
-       "eligible": 28,
+       "eligible": 29,
        "before": 0,
        "unknown": 0,
        "followed": 0,
@@ -17699,7 +17712,57 @@
    17,
    27,
    36,
-   11
+   32,
+   57,
+   27,
+   39,
+   19,
+   13,
+   20,
+   38,
+   32,
+   36,
+   25,
+   29,
+   32,
+   15,
+   17,
+   17,
+   31,
+   18,
+   16,
+   18,
+   53,
+   24,
+   22,
+   21,
+   37,
+   67,
+   77,
+   68,
+   55,
+   60,
+   86,
+   72,
+   68,
+   30,
+   34,
+   37,
+   27,
+   19,
+   20,
+   15,
+   30,
+   25,
+   19,
+   9,
+   7,
+   22,
+   20,
+   23,
+   25,
+   20,
+   0
   ],
   "ends": [
    1779520644,
@@ -30038,7 +30101,57 @@
    1795649083,
    1795650772,
    1795652605,
-   1795653049
+   1795654257,
+   1795655915,
+   1795657478,
+   1795659095,
+   1795660765,
+   1795662346,
+   1795663950,
+   1795665603,
+   1795667324,
+   1795669067,
+   1795670712,
+   1795672219,
+   1795673927,
+   1795675533,
+   1795677137,
+   1795678744,
+   1795680345,
+   1795681884,
+   1795683345,
+   1795684905,
+   1795686672,
+   1795688542,
+   1795691102,
+   1795693853,
+   1795696595,
+   1795699615,
+   1795702634,
+   1795705821,
+   1795708414,
+   1795710919,
+   1795713357,
+   1795715926,
+   1795718418,
+   1795720936,
+   1795722180,
+   1795723348,
+   1795724507,
+   1795725662,
+   1795726843,
+   1795728037,
+   1795729152,
+   1795730320,
+   1795731432,
+   1795732607,
+   1795733817,
+   1795734907,
+   1795736007,
+   1795737149,
+   1795738245,
+   1795739411,
+   1795739442
   ]
  }
 }

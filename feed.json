@@ -6,6 +6,167 @@
  "description": "Dated public steps of Robinhood Chain tokens, and the venues that listed them, as the BrainChain MCP records them.",
  "items": [
   {
+   "id": "a3000f724e3bc7e4bc0cc4a7840623c4",
+   "title": "HEPH (0x3B6E95B2eD4976F54Cdf551468D9c8f1E132e9a4): a first Uniswap pool",
+   "content_text": "Uniswap v4. Public from 2026-11-19T19:28:49.000Z.",
+   "url": "https://robinhoodchain.blockscout.com/tx/0xdb7eea370a5623c65e75dbfeb5e216d8a3c9668ab7d384133b2bcc9b66552fca",
+   "date_published": "2026-11-27T00:30:17.072Z"
+  },
+  {
+   "id": "ec8c14d397109fab1a7e51578f579301",
+   "title": "ANALYST (0x4E63A67C47AbBb8Dd693D1349CF68f6CbB3Aac47): a first Uniswap pool",
+   "content_text": "Uniswap v4. Public from 2026-08-30T04:37:55.000Z.",
+   "url": "https://robinhoodchain.blockscout.com/tx/0xfc0a2c83b14f4abfa8b0066b960a3e25132f4c3dc163b0015fc7559c3dca8a06",
+   "date_published": "2026-11-27T00:30:17.072Z"
+  },
+  {
+   "id": "82defcacfac9b74c240b10ef361fae21",
+   "title": "IDLEX (0x524988ccc8D7A23566E2ffFb24B1B07E5Aa2f134): a first Uniswap pool",
+   "content_text": "Uniswap v3. Public from 2026-11-25T09:13:23.000Z.",
+   "url": "https://robinhoodchain.blockscout.com/tx/0xb685cc4bceb6fd906b09387957fd9d3bc04c727b5eb422e468eade1e16ef570c",
+   "date_published": "2026-11-27T00:30:17.072Z"
+  },
+  {
+   "id": "9bc0acf5476791d56a8846cc6a60eaf5",
+   "title": "IDLEX (0x524988ccc8D7A23566E2ffFb24B1B07E5Aa2f134): a first Uniswap pool",
+   "content_text": "Uniswap v4. Public from 2026-11-17T04:08:53.000Z.",
+   "url": "https://robinhoodchain.blockscout.com/tx/0x894610bfda9d91497e5bcd6bd663fbca4b125347155c1eb9ee35865bf8fd6dfd",
+   "date_published": "2026-11-27T00:30:17.072Z"
+  },
+  {
+   "id": "6bf1a74355ab639f1ea48987e1d32701",
+   "title": "KLIK (0x6989a8217359aC1C7AA9b651Cb67f226C2fd3ca8): a first Uniswap pool",
+   "content_text": "Uniswap v3. Public from 2026-07-13T21:58:19.000Z.",
+   "url": "https://robinhoodchain.blockscout.com/tx/0x32706002a5789b0787545dc8d7a4a5e9403f0c3ef5b682859247973b13ae667e",
+   "date_published": "2026-11-27T00:30:17.072Z"
+  },
+  {
+   "id": "343120d8dcdccde074358667fdc1d2be",
+   "title": "KLIK (0x6989a8217359aC1C7AA9b651Cb67f226C2fd3ca8): a first Uniswap pool",
+   "content_text": "Uniswap v4. Public from 2026-07-13T20:40:59.000Z.",
+   "url": "https://robinhoodchain.blockscout.com/tx/0x4b956d53747faa0fd406ee50922052607d5a9f21fec249d02076a13651a44b4a",
+   "date_published": "2026-11-27T00:30:17.072Z"
+  },
+  {
+   "id": "c4246c660ddffc4a61d5a57b85a5689d",
+   "title": "USDG (0x971EE6440297240871504A3B3A625C711E47b5Fa): a first Uniswap pool",
+   "content_text": "Uniswap v4. Public from 2026-11-25T06:23:44.000Z.",
+   "url": "https://robinhoodchain.blockscout.com/tx/0xd35387b0ec485cd78f38b5419099c67a7578ba7382f5bbc230db7a32ba8e27e9",
+   "date_published": "2026-11-27T00:30:17.072Z"
+  },
+  {
+   "id": "35d087ec2ccc949162c087ce3919ad1e",
+   "title": "CORBEL (0xAA1f4De6b9f7cDf11FB8AA97ce163D35D731CdB1): a first Uniswap pool",
+   "content_text": "Uniswap v4. Public from 2026-11-20T16:25:37.000Z.",
+   "url": "https://robinhoodchain.blockscout.com/tx/0x9d7e5cbe232da283368691e248624aa9eab1184e0ba8de824c1c57b4c3ba02ae",
+   "date_published": "2026-11-27T00:30:17.072Z"
+  },
+  {
+   "id": "0ee0b9feb6b6840dfba0721700a4842a",
+   "title": "MOTH (0xB15Cd4C4E42Cdb25fc939815711EA7875F4AA844): a first Uniswap pool",
+   "content_text": "Uniswap v4. Public from 2026-11-23T20:40:58.000Z.",
+   "url": "https://robinhoodchain.blockscout.com/tx/0x80e1f22c1e8f526dbcf2d90db6c6d9f6842b56ad89f82a3edcedfbd04b5c1e98",
+   "date_published": "2026-11-27T00:30:17.072Z"
+  },
+  {
+   "id": "68af2450c39b647590d1f7c9341f86db",
+   "title": "KITSU (0x0920bBE08DFd9Ac2314Eb9B2B39CB2f3e60bd922): a first Uniswap pool",
+   "content_text": "Uniswap v4. Public from 2026-11-26T14:03:39.000Z.",
+   "url": "https://robinhoodchain.blockscout.com/tx/0x62a551984d221378ac5edabe4965c45145d91346739524b9762aab6c7d751efe",
+   "date_published": "2026-11-26T14:03:48.486Z"
+  },
+  {
+   "id": "3d74a02e69bbabf797b24b9690542586",
+   "title": "SI (0xEF82DDc566653699B89C3aFe123559a75aAA2976): LI.FI or CoinGecko listing it",
+   "content_text": "LI.FI. Public from 2026-11-26T10:21:23.674Z.",
+   "url": "https://li.quest/v1/tokens?chains=4663",
+   "date_published": "2026-11-26T10:21:23.674Z"
+  },
+  {
+   "id": "2cf57ad9a988680cc6656dcefe9190f7",
+   "title": "PURR (0xD928A068d2B90798373a470c9D9bA562322ACdeF): LI.FI or CoinGecko listing it",
+   "content_text": "LI.FI. Public from 2026-11-26T08:51:21.737Z.",
+   "url": "https://li.quest/v1/tokens?chains=4663",
+   "date_published": "2026-11-26T08:51:21.737Z"
+  },
+  {
+   "id": "b587786cc717f048d47f808baecae0eb",
+   "title": "HEPH (0x3B6E95B2eD4976F54Cdf551468D9c8f1E132e9a4): LI.FI or CoinGecko listing it",
+   "content_text": "CoinGecko. Public from 2026-11-26T08:16:04.707Z.",
+   "url": "https://tokens.coingecko.com/robinhood/all.json",
+   "date_published": "2026-11-26T08:16:04.707Z"
+  },
+  {
+   "id": "515926e407a73213e6544c466b01aa11",
+   "title": "MOTH (0xB15Cd4C4E42Cdb25fc939815711EA7875F4AA844): LI.FI or CoinGecko listing it",
+   "content_text": "CoinGecko. Public from 2026-11-26T08:16:04.707Z.",
+   "url": "https://tokens.coingecko.com/robinhood/all.json",
+   "date_published": "2026-11-26T08:16:04.707Z"
+  },
+  {
+   "id": "534f3337e9db9ecbd9ca8b122410ea8b",
+   "title": "TASQ (0xdc453b1405CfE25e2afBA8E7F4272b0a00437777): LI.FI or CoinGecko listing it",
+   "content_text": "LI.FI. Public from 2026-11-26T07:56:20.600Z.",
+   "url": "https://li.quest/v1/tokens?chains=4663",
+   "date_published": "2026-11-26T07:56:20.600Z"
+  },
+  {
+   "id": "70e58a278d1c5992fc99f826148e5115",
+   "title": "FOX (0x2103faA9D1762e27a716C61718b3aCf3Ec1F9bf1): LI.FI or CoinGecko listing it",
+   "content_text": "LI.FI. Public from 2026-11-26T06:16:18.790Z.",
+   "url": "https://li.quest/v1/tokens?chains=4663",
+   "date_published": "2026-11-26T06:16:18.790Z"
+  },
+  {
+   "id": "d6ca3e32430ce1e0de73c7e719387031",
+   "title": "IDLEX (0x524988ccc8D7A23566E2ffFb24B1B07E5Aa2f134): LI.FI or CoinGecko listing it",
+   "content_text": "CoinGecko. Public from 2026-11-26T06:16:04.446Z.",
+   "url": "https://tokens.coingecko.com/robinhood/all.json",
+   "date_published": "2026-11-26T06:16:04.446Z"
+  },
+  {
+   "id": "0cd3209ee54c109c6bf5ec6e3ebf2ab1",
+   "title": "CORBEL (0xAA1f4De6b9f7cDf11FB8AA97ce163D35D731CdB1): LI.FI or CoinGecko listing it",
+   "content_text": "CoinGecko. Public from 2026-11-26T06:16:04.446Z.",
+   "url": "https://tokens.coingecko.com/robinhood/all.json",
+   "date_published": "2026-11-26T06:16:04.446Z"
+  },
+  {
+   "id": "1b6ce5f3d542c3ba87c83127f337ef7a",
+   "title": "KLIK (0x6989a8217359aC1C7AA9b651Cb67f226C2fd3ca8): LI.FI or CoinGecko listing it",
+   "content_text": "LI.FI. Public from 2026-11-26T05:31:17.917Z.",
+   "url": "https://li.quest/v1/tokens?chains=4663",
+   "date_published": "2026-11-26T05:31:17.917Z"
+  },
+  {
+   "id": "cd6948ec3979c100bb01290335bbcbdd",
+   "title": "ROBO (0x8b48e9da0501A3556a961463FCf39BB426501D0d): LI.FI or CoinGecko listing it",
+   "content_text": "LI.FI. Public from 2026-11-26T05:26:17.821Z.",
+   "url": "https://li.quest/v1/tokens?chains=4663",
+   "date_published": "2026-11-26T05:26:17.821Z"
+  },
+  {
+   "id": "2942e31672906bee00de6081192409f7",
+   "title": "WAIFU (0x948647a06a6422DceEA3711297F82AeF68Ec641C): LI.FI or CoinGecko listing it",
+   "content_text": "LI.FI. Public from 2026-11-26T05:11:17.524Z.",
+   "url": "https://li.quest/v1/tokens?chains=4663",
+   "date_published": "2026-11-26T05:11:17.524Z"
+  },
+  {
+   "id": "f1c7b2fa399ea30fc483bfdd6e4c650b",
+   "title": "MF-ONE (0x8639dEE23bb8a5153B150e55b2Bdb40827D1AFC8): LI.FI or CoinGecko listing it",
+   "content_text": "CoinGecko. Public from 2026-11-26T04:16:03.940Z.",
+   "url": "https://tokens.coingecko.com/robinhood/all.json",
+   "date_published": "2026-11-26T04:16:03.940Z"
+  },
+  {
+   "id": "90c9f792ff0091692802b6ae73443ea7",
+   "title": "ANALYST (0x4E63A67C47AbBb8Dd693D1349CF68f6CbB3Aac47): LI.FI or CoinGecko listing it",
+   "content_text": "LI.FI. Public from 2026-11-26T03:21:15.442Z.",
+   "url": "https://li.quest/v1/tokens?chains=4663",
+   "date_published": "2026-11-26T03:21:15.442Z"
+  },
+  {
    "id": "052038cec5dc096c804e7fee63b35a9a",
    "title": "SERIOUSCAT (0x196A3Ab28E1e854a040e57576cf94ff99d7F3Acc): a first Uniswap pool",
    "content_text": "Uniswap v4. Public from 2026-08-05T00:57:40.000Z.",
@@ -543,167 +704,6 @@
    "content_text": "Uniswap v4. Public from 2026-11-13T02:54:20.000Z.",
    "url": "https://robinhoodchain.blockscout.com/tx/0xf4032e328ad00e61650fa441f704d119a9b5c2713c992789d56309df33cc304c",
    "date_published": "2026-11-23T00:30:11.327Z"
-  },
-  {
-   "id": "ebc2448b9d83949cddb687e2a0ee3afa",
-   "title": "ANVDA (0x701193374879131f923532987c7Ef363a91a80eB): a first Uniswap pool",
-   "content_text": "Uniswap v4. Public from 2026-11-22T09:34:05.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0x4067c5e4aca217e76e1252187299919d78a17f66796684afd2f3eb81e68ac0a4",
-   "date_published": "2026-11-23T00:30:11.327Z"
-  },
-  {
-   "id": "137e5b689d6d6cf40bc8a87acf10e9ed",
-   "title": "ACRCL (0x72e4F625B68f8d7A08dFb5A88065D6bB90052098): a first Uniswap pool",
-   "content_text": "Uniswap v4. Public from 2026-11-22T10:31:09.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0x805b5890c557352830a25022b49ebc95d84698ae53399dcd33992c445e9aa67b",
-   "date_published": "2026-11-23T00:30:11.327Z"
-  },
-  {
-   "id": "fa758e4089169dfdb379d7e1b2bd004d",
-   "title": "AMSFT (0x73E9EB2C7a4B4E8c68232b31Ea0F1246963D0375): a first Uniswap pool",
-   "content_text": "Uniswap v4. Public from 2026-11-22T10:22:46.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0x5714111c8f5128d2061cbdac0994881895f9cd4e09abdfe06b6a53e97aacdcaf",
-   "date_published": "2026-11-23T00:30:11.327Z"
-  },
-  {
-   "id": "ac6b84264295e35683dcc0bd9a38b0f4",
-   "title": "AGME (0x8E18aC2b7EbDd781e7a15C333f3b80EEd8De4A27): a first Uniswap pool",
-   "content_text": "Uniswap v4. Public from 2026-11-22T10:15:25.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0x19264ee340128a3bda3a91b757f226de50d857009cca27c68fd2836e4eef7c17",
-   "date_published": "2026-11-23T00:30:11.327Z"
-  },
-  {
-   "id": "669bdeda6bea5f99e18fee52e44991ea",
-   "title": "AMETA (0xa1847139cbd660ABC2f7b889d7CBCF18C56407fb): a first Uniswap pool",
-   "content_text": "Uniswap v4. Public from 2026-11-22T10:00:40.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0x35fbedcc42f3041704163e02b01efca7c092b493e23d28538db362414aa28c4d",
-   "date_published": "2026-11-23T00:30:11.327Z"
-  },
-  {
-   "id": "fbdf44472928cb73ab903b408dce49a6",
-   "title": "USDG (0xb655D046D5C636A139599B74BC0355a35BbE5012): a first Uniswap pool",
-   "content_text": "Uniswap v4. Public from 2026-11-19T09:49:01.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0x84d858022edb869d87953dc77f70a21738112da4353273e13b8e01abe795496a",
-   "date_published": "2026-11-23T00:30:11.327Z"
-  },
-  {
-   "id": "9b2b323093246a14a623e0d5d9f39b2f",
-   "title": "AGOOGL (0xBDe676CDF5564Ef64CCD8555Aa9B56867D8D1aD5): a first Uniswap pool",
-   "content_text": "Uniswap v4. Public from 2026-11-22T09:45:55.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0xb1e3018280f7d53fa5791e6f95a44d579caddae68c8b39be47fcdac4bef44166",
-   "date_published": "2026-11-23T00:30:11.327Z"
-  },
-  {
-   "id": "fe2086d6b4ddfd2fef61db20621fb989",
-   "title": "AAMD (0xbdf82C0DAFCf73834d10639c0F0Bf14b84808C43): a first Uniswap pool",
-   "content_text": "Uniswap v4. Public from 2026-11-22T10:19:02.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0xcb6dbce4dbdeaad3b16cd0fc337dfff859bfcabd0a4377ddc92dba86bbcc3d91",
-   "date_published": "2026-11-23T00:30:11.327Z"
-  },
-  {
-   "id": "6ed2360f7aef6c68d65e38c10d6a9b99",
-   "title": "AMU (0xc54ce75193a68602bC01FfD2B112DA3948EB14a7): a first Uniswap pool",
-   "content_text": "Uniswap v4. Public from 2026-11-22T10:04:12.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0x673408678db2423d3de19190688a7bfb958c395c62e9cdcee904706f1e3a0de8",
-   "date_published": "2026-11-23T00:30:11.327Z"
-  },
-  {
-   "id": "86cdfe20bb09bb34ab864ba189e1c9cc",
-   "title": "ACAT (0xd281BF1649c5Db6744D23F61BB25B05B4d1dFF35): a first Uniswap pool",
-   "content_text": "Uniswap v4. Public from 2026-11-13T22:28:14.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0x27152653dcccb0a318d5718e9be5d93cc12b01be5366958682789b5cdc507a1b",
-   "date_published": "2026-11-23T00:30:11.327Z"
-  },
-  {
-   "id": "300422762df449cf78796fa575fbbe41",
-   "title": "ACOIN (0xD8c1DAe1c55B2fA349F78Ce34553E075AAD6b8A2): a first Uniswap pool",
-   "content_text": "Uniswap v4. Public from 2026-11-22T09:56:51.000Z.",
-   "url": "https://robinhoodchain.blockscout.com/tx/0xfd31ebd674bf732767c11d8c4c77bfc35d0e8b820019b29d1f0bfbef717b45eb",
-   "date_published": "2026-11-23T00:30:11.327Z"
-  },
-  {
-   "id": "dc99f1da15a194a89922abedee24e3fd",
-   "title": "PEPE (0x9B09c435BC5DA088722bE47E97989fB1e3Ed4eB9): LI.FI or CoinGecko listing it",
-   "content_text": "LI.FI. Public from 2026-11-22T21:41:15.862Z.",
-   "url": "https://li.quest/v1/tokens?chains=4663",
-   "date_published": "2026-11-22T21:41:15.862Z"
-  },
-  {
-   "id": "a6d4734d481976e85462455009a3e7bd",
-   "title": "PRM (0xf24f8F6b08fE87CF062E833a732AD7F636064BC8): LI.FI or CoinGecko listing it",
-   "content_text": "LI.FI. Public from 2026-11-22T21:06:15.187Z.",
-   "url": "https://li.quest/v1/tokens?chains=4663",
-   "date_published": "2026-11-22T21:06:15.187Z"
-  },
-  {
-   "id": "730bb2509f80b9eee2edbcd1d897a3cd",
-   "title": "BOWLINE (0xc23d7218512c672BA6e87b7F8bccE53355f55931): LI.FI or CoinGecko listing it",
-   "content_text": "LI.FI. Public from 2026-11-22T19:51:14.489Z.",
-   "url": "https://li.quest/v1/tokens?chains=4663",
-   "date_published": "2026-11-22T19:51:14.489Z"
-  },
-  {
-   "id": "64e119aa01ac6326d3d9cd2192f5ccaf",
-   "title": "AU (0xd4aAe326dDd1a2537A92C00E6576E4605e5D1e18): LI.FI or CoinGecko listing it",
-   "content_text": "LI.FI. Public from 2026-11-22T15:17:56.628Z.",
-   "url": "https://li.quest/v1/tokens?chains=4663",
-   "date_published": "2026-11-22T15:17:56.628Z"
-  },
-  {
-   "id": "8b04dbd8b0e3a970c301ef2162af8934",
-   "title": "UNIPCS (0x7df5daAF80e65dFcc7a1435d9b52bcf2B5753fbE): LI.FI or CoinGecko listing it",
-   "content_text": "LI.FI. Public from 2026-11-22T15:12:56.530Z.",
-   "url": "https://li.quest/v1/tokens?chains=4663",
-   "date_published": "2026-11-22T15:12:56.530Z"
-  },
-  {
-   "id": "563a88aeedef9fbc02793c1f2bb3943d",
-   "title": "CCC (0xddeC0170cEB4426eA05F2fbD485DffA4FAFA6615): LI.FI or CoinGecko listing it",
-   "content_text": "LI.FI. Public from 2026-11-22T12:27:53.505Z.",
-   "url": "https://li.quest/v1/tokens?chains=4663",
-   "date_published": "2026-11-22T12:27:53.505Z"
-  },
-  {
-   "id": "f63d02b55b4d4a3e43ba6a6f5537e9b8",
-   "title": "MORPH (0x6dbE95076584f869dD09A44131E9A3C13F34D7D6): LI.FI or CoinGecko listing it",
-   "content_text": "CoinGecko. Public from 2026-11-22T09:12:37.898Z.",
-   "url": "https://tokens.coingecko.com/robinhood/all.json",
-   "date_published": "2026-11-22T09:12:37.898Z"
-  },
-  {
-   "id": "083acca6ac0e9116278f43d401e51a89",
-   "title": "ACAT (0xd281BF1649c5Db6744D23F61BB25B05B4d1dFF35): LI.FI or CoinGecko listing it",
-   "content_text": "CoinGecko. Public from 2026-11-22T09:12:37.898Z.",
-   "url": "https://tokens.coingecko.com/robinhood/all.json",
-   "date_published": "2026-11-22T09:12:37.898Z"
-  },
-  {
-   "id": "67518ae93f68bb906e5f63ae87ac9cf5",
-   "title": "FP (0x0c25AA36986e0Ae904d0233695E828D08A065fE2): LI.FI or CoinGecko listing it",
-   "content_text": "LI.FI. Public from 2026-11-22T06:12:45.396Z.",
-   "url": "https://li.quest/v1/tokens?chains=4663",
-   "date_published": "2026-11-22T06:12:45.396Z"
-  },
-  {
-   "id": "a34930712f0c0127f4e7bddd629a69dd",
-   "title": "REPE (0x5266eeafF092D6136AB63D18B975A60a0Cc0C8f7): LI.FI or CoinGecko listing it",
-   "content_text": "LI.FI. Public from 2026-11-22T05:12:44.310Z.",
-   "url": "https://li.quest/v1/tokens?chains=4663",
-   "date_published": "2026-11-22T05:12:44.310Z"
-  },
-  {
-   "id": "2686cd2d031e7ca61f6b627b1baf06bd",
-   "title": "SWOGE (0xDB87393727b666c43f5aecB03d8B419bA54D9b03): LI.FI or CoinGecko listing it",
-   "content_text": "LI.FI. Public from 2026-11-22T04:57:44.026Z.",
-   "url": "https://li.quest/v1/tokens?chains=4663",
-   "date_published": "2026-11-22T04:57:44.026Z"
-  },
-  {
-   "id": "e50923263d3bb57ebff711c2c3480cf6",
-   "title": "BUY (0x0e8720B8cD84F95b4b6696adbFA8063c4B8B94F2): LI.FI or CoinGecko listing it",
-   "content_text": "LI.FI. Public from 2026-11-22T04:22:43.357Z.",
-   "url": "https://li.quest/v1/tokens?chains=4663",
-   "date_published": "2026-11-22T04:22:43.357Z"
   }
  ]
 }
