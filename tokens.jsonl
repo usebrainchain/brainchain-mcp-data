@@ -1705,3 +1705,14 @@
 {"token":"0xB15Cd4C4E42Cdb25fc939815711EA7875F4AA844","symbol":"MOTH","name":"Moth","sources":["CoinGecko"],"observedAt":"2026-11-26T08:16:04.707Z"}
 {"token":"0x971EE6440297240871504A3B3A625C711E47b5Fa","symbol":"USDG","name":"United Syndicate of Degen Greed","sources":["Robinhood Chain"],"observedAt":"2026-11-26T11:39:53.904Z"}
 {"token":"0x0920bBE08DFd9Ac2314Eb9B2B39CB2f3e60bd922","symbol":"KITSU","name":"KITSU","sources":["Robinhood Chain"],"observedAt":"2026-11-26T13:48:57.663Z"}
+{"token":"0x528A38868D580925E3f580A060CDa2f1Eefafe83","symbol":"ABC","name":"Artificial Blockchain Computing","sources":["Robinhood Chain"],"observedAt":"2026-11-27T04:38:11.021Z"}
+{"token":"0x48447cE272824776c7F21D8741dba38ca1586475","symbol":"RUBY","name":"RUBY","sources":["CoinGecko"],"observedAt":"2026-11-27T07:00:12.360Z"}
+{"token":"0x7a659b3F82429F9017f26C1245C5511aE46CED31","symbol":"JACKET","name":"Just a Jacket","sources":["Robinhood Chain"],"observedAt":"2026-11-27T08:23:50.703Z"}
+{"token":"0x9f564bBcc8Ffac3781Dfa0025759e54BD5991698","symbol":"GREM","name":"Gremlin","sources":["CoinGecko"],"observedAt":"2026-11-27T11:00:12.778Z"}
+{"token":"0x0fA5e2cFEf71214cc55Edc86a571121071Dce61B","symbol":"USDG","name":"United States Globall Dollars Grup","sources":["Robinhood Chain"],"observedAt":"2026-11-27T14:30:12.938Z"}
+{"token":"0x4087BC78AEd84604606dC0D8B6E070BCB374b371","symbol":"SHERK","name":"Sherwood Shark","sources":["LI.FI"],"observedAt":"2026-11-27T21:00:27.017Z"}
+{"token":"0xAAed1a6A716Bb12c6037e8B170aB6dA29f28fD04","symbol":"OTO","name":"Otomate","sources":["LI.FI"],"observedAt":"2026-11-27T21:00:27.017Z"}
+{"token":"0xb7e93fD237a7ed2F820e236b2A870337AFA658bf","symbol":"KMT","name":"KOLMarket","sources":["LI.FI"],"observedAt":"2026-11-27T21:00:27.017Z"}
+{"token":"0xd20Eaf1DF8C5b5dBA27F92D50786B243a0954113","symbol":"STOCKMEME","name":"Stocksmeme.fun","sources":["LI.FI"],"observedAt":"2026-11-27T21:05:27.075Z"}
+{"token":"0x95D3Bc5d467D448AC83C5b33fF90F4DCfaf4C1e4","symbol":"NOVAAI","name":"NovaAi","sources":["LI.FI"],"observedAt":"2026-11-27T21:40:27.415Z"}
+{"token":"0x4A76d884Bb9CBbf2138fBe47e99584eB5168DdE2","symbol":"PONSTR","name":"PON Strategy","sources":["LI.FI"],"observedAt":"2026-11-27T23:20:28.459Z"}
